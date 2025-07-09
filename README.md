@@ -130,48 +130,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=40&lines=Currently+Exploring+%26+Building...;Innovation+Never+Stops+%F0%9F%9A%80" alt="Current Focus Animation" />
 </div>
 
-<br/>
-
 <!-- Row 1 -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;"><br>
 
-  <!-- Cloud & ERP -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud" />
-    <br/>
-    <h3>☁️ Cloud & ERP</h3>
-    <p><em>Oracle Cloud ERP & consulting systems</em></p>
-  </div>
+<!-- Cloud & ERP -->
+<a href="#" title="Cloud & ERP" style="text-decoration: none;">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud" /><br/>
+  <strong>☁️ Cloud & ERP</strong><br/>
+  <em>Oracle Cloud ERP & consulting systems</em>
+</a>
 
-  <!-- DevOps -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps" />
-    <br/>
-    <h3>⚙️ DevOps Scaling</h3>
-    <p><em>Kubernetes & containerization</em></p>
-  </div>
+<!-- DevOps -->
+<a href="#" title="DevOps Scaling" style="text-decoration: none;">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps" /><br/>
+  <strong>⚙️ DevOps Scaling</strong><br/>
+  <em>Kubernetes & containerization</em>
+</a>
 </div>
 
 <br/>
 
 <!-- Row 2 -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;"><br>
 
-  <!-- AI / NLP -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI" />
-    <br/>
-    <h3>🧠 NLP & LLM</h3>
-    <p><em>API integrations & AI systems</em></p>
-  </div>
+<!-- NLP & LLM -->
+<a href="#" title="NLP & LLM" style="text-decoration: none;">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI" /><br/>
+  <strong>🧠 NLP & LLM</strong><br/>
+  <em>API integrations & AI systems</em>
+</a>
 
-  <!-- React + SEO -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Rocket" />
-    <br/>
-    <h3>🛠️ React + SEO SSR</h3>
-    <p><em>Building complex UIs with modern frameworks</em></p>
-  </div>
+<!-- React + SEO -->
+<a href="#" title="React + SEO SSR" style="text-decoration: none;">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Rocket" /><br/>
+  <strong>🛠️ React + SEO SSR</strong><br/>
+  <em>Building complex UIs with modern frameworks</em>
+</a>
 </div>
 
 ---
