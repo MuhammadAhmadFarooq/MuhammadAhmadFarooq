@@ -131,41 +131,25 @@
 </div>
 
 <!-- Row 1 -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;"><br>
+<div align="center">
 
-<!-- Cloud & ERP -->
-<a href="#" title="Cloud & ERP" style="text-decoration: none;">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud" /><br/>
-  <strong>☁️ Cloud & ERP</strong><br/>
-  <em>Oracle Cloud ERP & consulting systems</em>
-</a>
+  <!-- Cloud & ERP -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Cloud-ERP-Focus&title=☁️ Cloud & ERP&description=Oracle+Cloud+ERP+%26+consulting+systems&theme=react&border_color=61dafb&border_radius=10" height="150"/>
 
-<!-- DevOps -->
-<a href="#" title="DevOps Scaling" style="text-decoration: none;">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps" /><br/>
-  <strong>⚙️ DevOps Scaling</strong><br/>
-  <em>Kubernetes & containerization</em>
-</a>
-</div>
+  <!-- DevOps Scaling -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=DevOps-Focus&title=⚙️ DevOps Scaling&description=Kubernetes+%26+containerization&theme=react&border_color=61dafb&border_radius=10" height="150"/>
 
-<br/>
+</div><br/>
 
 <!-- Row 2 -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;"><br>
+<div align="center">
 
-<!-- NLP & LLM -->
-<a href="#" title="NLP & LLM" style="text-decoration: none;">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI" /><br/>
-  <strong>🧠 NLP & LLM</strong><br/>
-  <em>API integrations & AI systems</em>
-</a>
+  <!-- NLP & LLM -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=NLP-Focus&title=🧠 NLP & LLM&description=API+integrations+%26+AI+systems&theme=react&border_color=61dafb&border_radius=10" height="150"/>
 
-<!-- React + SEO -->
-<a href="#" title="React + SEO SSR" style="text-decoration: none;">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Rocket" /><br/>
-  <strong>🛠️ React + SEO SSR</strong><br/>
-  <em>Building complex UIs with modern frameworks</em>
-</a>
+  <!-- React + SEO SSR -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=React-SEO-Focus&title=🛠️ React + SEO SSR&description=Building+complex+UIs+with+modern+frameworks&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+
 </div>
 
 ---
