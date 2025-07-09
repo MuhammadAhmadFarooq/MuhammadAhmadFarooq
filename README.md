@@ -12,10 +12,18 @@
 </h3>
 
 <p align="center">
-  <strong>📫 Email:</strong> <a href="mailto:ahmadfarooq9123@gmail.com">ahmadfarooq9123@gmail.com</a> &nbsp;|&nbsp;
-  <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">muhammad-ahmad-a638a32a9</a> &nbsp;|&nbsp;
-  <strong>🌐 Portfolio:</strong> <a href="https://portfolio-ahmadfarooq.vercel.app/">portfolio-ahmadfarooq.vercel.app</a> &nbsp;|&nbsp;
-  <strong>🐙 GitHub:</strong> <a href="https://github.com/MuhammadAhmadFarooq">MuhammadAhmadFarooq</a>
+  <a href="mailto:ahmadfarooq9123@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://github.com/MuhammadAhmadFarooq" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="40"/>
+  </a>
+  <a href="https://portfolio-ahmadfarooq.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/00bfff/domain.png" alt="Portfolio" height="40"/>
+  </a>
 </p>
 
 
