@@ -33,24 +33,26 @@
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" height="60" alt="AI"/>
-    <br><strong>🧠 AI & ML</strong>
-    <br><em>Neural Networks</em>
-    <br><em>Deep Learning</em>
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="Full Stack"/>
-    <br><strong>🖥️ Full-Stack</strong>
-    <br><em>MERN Stack</em>
-    <br><em>Modern Web Apps</em>
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="DevOps"/>
-    <br><strong>⚙️ DevOps & Cloud</strong>
-    <br><em>Docker & Kubernetes</em>
-    <br><em>Oracle ERP</em>
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; max-width: 900px; margin: 0 auto;">
+    <div style="text-align: center; padding: 20px;">
+      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" height="60" alt="AI"/>
+      <br><strong>🧠 AI & ML</strong>
+      <br><em>Neural Networks</em>
+      <br><em>Deep Learning</em>
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="Full Stack"/>
+      <br><strong>🖥️ Full-Stack</strong>
+      <br><em>MERN Stack</em>
+      <br><em>Modern Web Apps</em>
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="DevOps"/>
+      <br><strong>⚙️ DevOps & Cloud</strong>
+      <br><em>Docker & Kubernetes</em>
+      <br><em>Oracle ERP</em>
+    </div>
   </div>
 </div>
 
@@ -139,37 +141,36 @@
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 1200px; margin: 0 auto;">
-  <div style="flex: 1; min-width: 280px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud"/>
-    <br/>
-    <h3>☁️ Cloud & ERP</h3>
-    <p><em>Oracle Cloud ERP & consulting systems</em></p>
-    <img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
-  </div>
-  <div style="flex: 1; min-width: 280px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps"/>
-    <br/>
-    <h3>⚙️ DevOps Scaling</h3>
-    <p><em>Kubernetes & containerization</em></p>
-    <img src="https://progress-bar.dev/78/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
-  </div>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 1200px; margin: 20px auto;">
-  <div style="flex: 1; min-width: 280px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI"/>
-    <br/>
-    <h3>🧠 NLP & LLM</h3>
-    <p><em>API integrations & AI systems</em></p>
-    <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
-  </div>
-  <div style="flex: 1; min-width: 280px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" alt="Mobile"/>
-    <br/>
-    <h3>📱 Mobile Development</h3>
-    <p><em>React Native & Cross-platform</em></p>
-    <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; max-width: 800px; margin: 0 auto;">
+    <div style="text-align: center; padding: 20px;">
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud"/>
+      <br/>
+      <h3>☁️ Cloud & ERP</h3>
+      <p><em>Oracle Cloud ERP & consulting systems</em></p>
+      <img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps"/>
+      <br/>
+      <h3>⚙️ DevOps Scaling</h3>
+      <p><em>Kubernetes & containerization</em></p>
+      <img src="https://progress-bar.dev/78/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI"/>
+      <br/>
+      <h3>🧠 NLP & LLM</h3>
+      <p><em>API integrations & AI systems</em></p>
+      <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" alt="Mobile"/>
+      <br/>
+      <h3>📱 Mobile Development</h3>
+      <p><em>React Native & Cross-platform</em></p>
+      <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+    </div>
   </div>
 </div>
 
@@ -198,34 +199,36 @@
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 1200px; margin: 0 auto;">
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center; margin: 10px;">
-    <h3>💼 Internships</h3>
-    <p><em>Ready to contribute & learn</em></p>
-    <a href="mailto:ahmadfarooq9123@gmail.com">
-      <img src="https://img.shields.io/badge/Apply-Now-success?style=for-the-badge&logo=gmail" />
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center; margin: 10px;">
-    <h3>🤝 Collaborations</h3>
-    <p><em>Open source & team projects</em></p>
-    <a href="https://github.com/MuhammadAhmadFarooq">
-      <img src="https://img.shields.io/badge/Collaborate-GitHub-blue?style=for-the-badge&logo=github" />
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center; margin: 10px;">
-    <h3>🏆 Hackathons</h3>
-    <p><em>Competitive coding & innovation</em></p>
-    <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
-      <img src="https://img.shields.io/badge/Team-Up-orange?style=for-the-badge&logo=linkedin" />
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center; margin: 10px;">
-    <h3>🔬 R&D Projects</h3>
-    <p><em>Research & development</em></p>
-    <a href="mailto:ahmadfarooq9123@gmail.com">
-      <img src="https://img.shields.io/badge/Research-Together-purple?style=for-the-badge&logo=academia" />
-    </a>
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; max-width: 800px; margin: 0 auto;">
+    <div style="text-align: center; padding: 20px;">
+      <h3>💼 Internships</h3>
+      <p><em>Ready to contribute & learn</em></p>
+      <a href="mailto:ahmadfarooq9123@gmail.com">
+        <img src="https://img.shields.io/badge/Apply-Now-success?style=for-the-badge&logo=gmail" />
+      </a>
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <h3>🤝 Collaborations</h3>
+      <p><em>Open source & team projects</em></p>
+      <a href="https://github.com/MuhammadAhmadFarooq">
+        <img src="https://img.shields.io/badge/Collaborate-GitHub-blue?style=for-the-badge&logo=github" />
+      </a>
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <h3>🏆 Hackathons</h3>
+      <p><em>Competitive coding & innovation</em></p>
+      <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
+        <img src="https://img.shields.io/badge/Team-Up-orange?style=for-the-badge&logo=linkedin" />
+      </a>
+    </div>
+    <div style="text-align: center; padding: 20px;">
+      <h3>🔬 R&D Projects</h3>
+      <p><em>Research & development</em></p>
+      <a href="mailto:ahmadfarooq9123@gmail.com">
+        <img src="https://img.shields.io/badge/Research-Together-purple?style=for-the-badge&logo=academia" />
+      </a>
+    </div>
   </div>
 </div>
 
