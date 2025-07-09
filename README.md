@@ -10,23 +10,17 @@
 <h3 align="center">
    Final Year Software Engineering Student &nbsp;|&nbsp;  Full-Stack Developer &nbsp;|&nbsp;  AI & Cloud Enthusiast
 </h3>
-
 <p align="center">
-  <a href="mailto:ahmadfarooq9123@gmail.com" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" height="30"/>
-    <span style="vertical-align: middle; font-size: 16px; color: #333;">Email</span>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
-    <span style="vertical-align: middle; font-size: 16px; color: #333;">LinkedIn</span>
+  <a href="https://github.com/MuhammadAhmadFarooq">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
   </a>
-  <a href="https://portfolio-ahmadfarooq.vercel.app/" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/50/00bfff/domain.png" alt="Portfolio" height="30"/>
-    <span style="vertical-align: middle; font-size: 16px; color: #333;">Portfolio</span>
+  <a href="mailto:ahmadfarooq9123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail" />
   </a>
 </p>
-
-
 
 
 ---
