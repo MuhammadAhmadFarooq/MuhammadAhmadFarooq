@@ -1,103 +1,73 @@
-# 👋 Hi there, I'm Muhammad Ahmad
-
-### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MuhammadAhmadFarooq)
-[![Email](https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail)](mailto:ahmadfarooq9123@gmail.com)
+<!-- BANNER / TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Muhammad+Ahmad!;Software+Engineer+%7C+MERN+Stack+Dev+%7C+AI+Enthusiast;Let's+build+something+awesome+together+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 👋 Welcome to My GitHub
 
-I'm a passionate Software Engineering undergrad at FAST NUCES, Islamabad 🇵🇰, with a strong focus on **full-stack web development** (MERN) and **AI-powered systems**.
+I'm **Muhammad Ahmad**, a passionate Software Engineering student at FAST NUCES 🇵🇰 who loves solving real-world problems with code — from **full-stack web development** to **machine learning** & **AI-driven automation**.
 
-- 💡 I enjoy building intelligent systems and tools that solve real-world problems.
-- 🧠 I'm proficient in **JavaScript (MERN)**, **Python**, and familiar with design patterns like MVC and RESTful APIs.
-- 🛠️ I'm learning DevOps tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.
-- 🤝 Active volunteer and coordinator in societies like IEEE, FinTech FAST, and NaSCon.
+🔗 [Portfolio (Coming Soon)]() • 📫 [Email](mailto:ahmadfarooq9123@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/) • 💻 [GitHub](https://github.com/MuhammadAhmadFarooq)
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🚀 My Toolbox
 
-**Languages:**  
-`JavaScript` `Python` `C/C++` `Java` `TypeScript` `SQL` `Bash`
-
-**Frameworks & Libraries:**  
-`MERN Stack` `Spring Boot` `JavaFX` `TensorFlow` `PyTorch` `Scikit-learn` `Chart.js` `Redux` `Bootstrap` `OpenCV`
-
-**DevOps & Tools:**  
-`Docker` `Kubernetes` `GitHub Actions` `Apache` `Nginx` `Postman` `Jira` `Figma` `Git`
-
-**Databases:**  
-`MongoDB` `MySQL` `Microsoft SQL Server`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,tensorflow,java,cpp,docker,kubernetes,linux,git,github,figma" />
+</p>
 
 ---
 
-## 💼 Featured Projects
+## 📊 GitHub Stats & Contributions
 
-### 📊 [Poultry Farm Management System](https://github.com/MuhammadAhmadFarooq/PFMS-MERN)
-> A full-stack MERN web app for managing poultry operations.
-- 🔐 Role-based access with JWT
-- 📈 Data visualizations via Chart.js
-- 🖥️ Responsive and intuitive dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=react&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmadFarooq&theme=react&hide_border=true" width="49%" />
+</p>
 
----
-
-### 💊 [Pharmacy Management System](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System)
-> Built with JavaFX & SQL following MVC architecture.
-- 🎯 OOP, GRASP & GoF principles
-- 🔄 Persistent database layer
-- 💡 User-friendly GUI for pharmacy workflows
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadFarooq&layout=compact&theme=react&hide_border=true" width="49%" />
+</p>
 
 ---
 
-### ☁️ [Weather Dashboard + Gemini Chatbot](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard)
-> Real-time weather updates with an integrated conversational AI.
-- 🌤️ Uses OpenWeather API + Gemini AI
-- 📊 Charts for visual forecasts
-- 💬 Natural language weather queries
+## 💼 Projects Showcase
+
+| Name | Description | Tech |
+|------|-------------|------|
+| [🧠 MazeAI](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver) | AI Maze Solver using BFS, A*, ML & CSP | Python, ML, Visualization |
+| [📈 Stock Predictor](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor) | LSTM + Transformers on OHLC data | Python, TensorFlow, Streamlit |
+| [🌤️ Weather Gemini](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard) | Weather Dashboard + AI Chatbot | JS, Gemini API, Chart.js |
+| [🐔 Poultry Manager](https://github.com/MuhammadAhmadFarooq/PFMS-MERN) | Farm Management System (MERN) | React, Node, MongoDB |
+| [💊 Pharmacy System](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System) | JavaFX GUI & SQL integration | Java, MVC, SQL |
 
 ---
 
-### 📈 [Stock Market Predictor (Deep Learning)](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor)
-> Forecasting stock prices using deep learning.
-- 🧠 LSTM, CNN, Transformer models
-- 📉 MAE, MSE, and directional accuracy analytics
-- 📊 Streamlit dashboard for result comparison
+## 🧠 Current Focus
+
+- ☁️ Exploring Oracle Cloud ERP & consulting systems  
+- ⚙️ Scaling DevOps with Kubernetes  
+- 🔗 Blockchain in FinTech (IEEE R&D FAST)  
+- 🧠 NLP & LLM API integrations  
+- 🛠️ Building complex UIs with React + SEO SSR
 
 ---
 
-### 🧩 [MazeAI – Intelligent Maze Solver](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver)
-> Solves mazes using AI and ML techniques.
-- 🧭 Includes BFS, DFS, A*, Greedy Best-First, CSP
-- 📊 Visualizations of search progress
-- 🧠 ML model to predict best algorithm based on maze
+## 🌟 Let's Connect
+
+💬 I’m open to: `Internships`, `Collaborations`, `Hackathons`, and `R&D Projects`.
+
+📧 **Email:** ahmadfarooq9123@gmail.com  
+📍 **Based in:** Islamabad, PK  
+📱 **WhatsApp:** +92 331 2223219  
 
 ---
 
-## 🌱 Currently Exploring
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🌐 SEO-focused frontends (Next.js, SSR)
-- ☁️ Oracle Cloud & ERP
-- 🔗 Blockchain applications in fintech
-- 🧪 Advanced DevOps with Kubernetes
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always open to interesting projects, hackathons, internships, and R&D collabs. Let's connect and create something amazing!
-
----
-
-📫 **Contact Me**:  
-📧 ahmadfarooq9123@gmail.com  
-📱 +92 331 2223219  
-🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/) | [GitHub](https://github.com/MuhammadAhmadFarooq)
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+<p align="center">🧠 “Learning never exhausts the mind.” – Leonardo da Vinci</p>
