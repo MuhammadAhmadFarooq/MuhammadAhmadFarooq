@@ -1,6 +1,6 @@
 <!-- BANNER / TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=tr---
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCen---
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -78,7 +78,13 @@
   </p>
 </div>
 
----1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">🧠 "Learning never exhausts the mind." – Leonardo da Vinci</p>1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Muhammad Ahmad</h1>
@@ -113,29 +119,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brain/brain-original.svg" width="60" height="60" alt="AI"/>
+    <td align="center" width="250">
+      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" height="60" alt="AI"/>
       <br><strong>🧠 AI & ML</strong>
       <br><em>Neural Networks</em>
       <br><em>Deep Learning</em>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="Full Stack"/>
       <br><strong>🖥️ Full-Stack</strong>
       <br><em>MERN Stack</em>
       <br><em>Modern Web Apps</em>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="DevOps"/>
       <br><strong>⚙️ DevOps & Cloud</strong>
       <br><em>Docker & Kubernetes</em>
       <br><em>Oracle ERP</em>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="60" height="60" alt="Blockchain"/>
-      <br><strong>🔗 Blockchain</strong>
-      <br><em>FinTech Solutions</em>
-      <br><em>Smart Contracts</em>
     </td>
   </tr>
 </table>
@@ -244,18 +244,18 @@
   </tr>
   <tr>
     <td align="center" width="300">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" height="80" alt="Blockchain"/>
-      <br/>
-      <h3>🔗 Blockchain FinTech</h3>
-      <p><em>IEEE R&D FAST research</em></p>
-      <img src="https://progress-bar.dev/72/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
-    </td>
-    <td align="center" width="300">
       <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI"/>
       <br/>
       <h3>🧠 NLP & LLM</h3>
       <p><em>API integrations & AI systems</em></p>
       <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+    </td>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" alt="Mobile"/>
+      <br/>
+      <h3>📱 Mobile Development</h3>
+      <p><em>React Native & Cross-platform</em></p>
+      <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
     </td>
   </tr>
 </table>
