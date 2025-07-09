@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Muhammad Ahmad</h1>
-
 <h3 align="center">🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast</h3>
 
 <p align="center">
@@ -55,11 +53,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding Animation"/>
-</p>
-
 ---
 
 ## 🚀 My Toolbox
