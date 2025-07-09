@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail" />
   </a>
 </p>
-
 ---
 
 <h2 align="center">
