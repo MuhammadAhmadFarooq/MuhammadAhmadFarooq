@@ -57,43 +57,44 @@ I'm a passionate Software Engineering student at FAST NUCES 🇵🇰 with a love
 
 ## 💼 Featured Projects
 
-<!-- REPOSITORIES -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2><br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=react&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=react&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MuhammadAhmadFarooq/my-weather-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=react&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=react&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=react&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Row 1 -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
+  <!-- MazeAI -->
+  <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver" title="MazeAI - Intelligent Maze Solver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+  <!-- Neural Stock Predictor -->
+  <a href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor" title="Neural Network Stock Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+</div><br/>
+
+<!-- Row 2 -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Weather Dashboard -->
+  <a href="https://github.com/MuhammadAhmadFarooq/my-weather-dashboard" title="Weather Dashboard + Gemini Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+  <!-- PFMS -->
+  <a href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN" title="Poultry Farm Management System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+</div><br/>
+
+<!-- Row 3 (centered single card) -->
+<div align="center">
+  <a href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System" title="Pharmacy Management System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+</div>
 
 
 ---
