@@ -21,39 +21,162 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <span>About Me</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<!-- 2x2 Grid: About Me, Current Focus, Let's Connect, Placeholder -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=50&lines=Passionate+Software+Engineering+Student+%F0%9F%87%B5%F0%9F%87%B0;Building+Powerful+%26+Scalable+Digital+Systems;Innovating+the+Future+with+Code+%F0%9F%9A%80" alt="About Me Animation" />
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; max-width: 1200px; margin: 0 auto;">
 
-<br/>
-
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; max-width: 900px; margin: 0 auto;">
-    <div style="text-align: center; padding: 20px;">
-      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" height="60" alt="AI"/>
-      <br><strong>🧠 AI & ML</strong>
-      <br><em>Neural Networks</em>
-      <br><em>Deep Learning</em>
+  <!-- About Me -->
+  <div style="flex: 1 1 45%; min-width: 400px;">
+    <h2 align="center">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+      <span>About Me</span>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    </h2>
+    <div align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=50&lines=Passionate+Software+Engineering+Student+%F0%9F%87%B5%F0%9F%87%B0;Building+Powerful+%26+Scalable+Digital+Systems;Innovating+the+Future+with+Code+%F0%9F%9A%80" alt="About Me Animation" />
     </div>
-    <div style="text-align: center; padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="Full Stack"/>
-      <br><strong>🖥️ Full-Stack</strong>
-      <br><em>MERN Stack</em>
-      <br><em>Modern Web Apps</em>
-    </div>
-    <div style="text-align: center; padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="DevOps"/>
-      <br><strong>⚙️ DevOps & Cloud</strong>
-      <br><em>Docker & Kubernetes</em>
-      <br><em>Oracle ERP</em>
+    <br/>
+    <div align="center">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 600px; margin: 0 auto;">
+        <div style="text-align: center; padding: 15px;">
+          <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50" height="50" alt="AI"/>
+          <br><strong>🧠 AI & ML</strong>
+          <br><em>Neural Networks</em>
+          <br><em>Deep Learning</em>
+        </div>
+        <div style="text-align: center; padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="Full Stack"/>
+          <br><strong>🖥️ Full-Stack</strong>
+          <br><em>MERN Stack</em>
+          <br><em>Modern Web Apps</em>
+        </div>
+        <div style="text-align: center; padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="DevOps"/>
+          <br><strong>⚙️ DevOps & Cloud</strong>
+          <br><em>Docker & Kubernetes</em>
+          <br><em>Oracle ERP</em>
+        </div>
+      </div>
     </div>
   </div>
+
+  <!-- Current Focus -->
+  <div style="flex: 1 1 45%; min-width: 400px;">
+    <h2 align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+      <span>Current Focus</span>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+    </h2>
+    <div align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&height=40&lines=Currently+Exploring+%26+Building...;Innovation+Never+Stops+%F0%9F%9A%80" alt="Current Focus Animation" />
+    </div>
+    <br/>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; text-align: center;">
+      <div>
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="60"><br/>
+        <h4>☁️ Cloud & ERP</h4>
+        <p><em>Oracle Cloud ERP & consulting systems</em></p>
+        <img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+      <div>
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"><br/>
+        <h4>⚙️ DevOps Scaling</h4>
+        <p><em>Kubernetes & containerization</em></p>
+        <img src="https://progress-bar.dev/78/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+      <div>
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60"><br/>
+        <h4>🧠 NLP & LLM</h4>
+        <p><em>API integrations & AI systems</em></p>
+        <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+      <div>
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60"><br/>
+        <h4>📱 Mobile Development</h4>
+        <p><em>React Native & Cross-platform</em></p>
+        <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+    </div>
+  </div>
+
+  <!-- Let's Connect & Collaborate -->
+  <div style="flex: 1 1 45%; min-width: 400px;">
+    <h2 align="center">
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+      <span>Let's Connect & Collaborate</span>
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    </h2>
+    <div align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=40&lines=Ready+to+Build+Something+Amazing%3F;Let's+Turn+Ideas+Into+Reality!" alt="Connect Animation" />
+    </div>
+    <br/>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; text-align: center;">
+      <div>
+        <h4>💼 Internships</h4>
+        <p><em>Ready to contribute & learn</em></p>
+        <a href="mailto:ahmadfarooq9123@gmail.com">
+          <img src="https://img.shields.io/badge/Apply-Now-success?style=for-the-badge&logo=gmail" />
+        </a>
+      </div>
+      <div>
+        <h4>🤝 Collaborations</h4>
+        <p><em>Open source & team projects</em></p>
+        <a href="https://github.com/MuhammadAhmadFarooq">
+          <img src="https://img.shields.io/badge/Collaborate-GitHub-blue?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+      <div>
+        <h4>🏆 Hackathons</h4>
+        <p><em>Competitive coding & innovation</em></p>
+        <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
+          <img src="https://img.shields.io/badge/Team-Up-orange?style=for-the-badge&logo=linkedin" />
+        </a>
+      </div>
+      <div>
+        <h4>🔬 R&D Projects</h4>
+        <p><em>Research & development</em></p>
+        <a href="mailto:ahmadfarooq9123@gmail.com">
+          <img src="https://img.shields.io/badge/Research-Together-purple?style=for-the-badge&logo=academia" />
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Additional Skills & Interests -->
+  <div style="flex: 1 1 45%; min-width: 400px;">
+    <h2 align="center">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+      <span>Skills & Interests</span>
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+    </h2>
+    <div align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=9b59b6&center=true&vCenter=true&width=600&height=40&lines=Expanding+My+Technical+Arsenal;Always+Learning+%26+Growing!" alt="Skills Animation" />
+    </div>
+    <br/>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; text-align: center;">
+      <div>
+        <h4>🛠️ React + SEO SSR</h4>
+        <p><em>Building complex UIs with modern frameworks</em></p>
+        <img src="https://progress-bar.dev/88/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+      <div>
+        <h4>🎨 UI/UX Design</h4>
+        <p><em>Creating intuitive user experiences</em></p>
+        <img src="https://progress-bar.dev/70/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+      <div>
+        <h4>📊 Data Analytics</h4>
+        <p><em>Insights from data patterns</em></p>
+        <img src="https://progress-bar.dev/65/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+      <div>
+        <h4>🔐 Cybersecurity</h4>
+        <p><em>Secure coding practices</em></p>
+        <img src="https://progress-bar.dev/60/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <p align="center">
