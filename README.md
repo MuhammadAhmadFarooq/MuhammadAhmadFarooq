@@ -10,17 +10,19 @@
 <h3 align="center">
    Final Year Software Engineering Student &nbsp;|&nbsp;  Full-Stack Developer &nbsp;|&nbsp;  AI & Cloud Enthusiast
 </h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="https://github.com/MuhammadAhmadFarooq">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
-  </a>
   <a href="mailto:ahmadfarooq9123@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail" />
   </a>
+  <a href="https://portfolio-ahmadfarooq.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome" />
+  </a>
 </p>
+
 
 
 ---
