@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">
-  🚀 Transforming Code into Impact  
+   Transforming Code into Impact  
 </h1>
 
 <h3 align="center">
-  🎓 Final Year Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI & Cloud Enthusiast
+   Final Year Software Engineering Student &nbsp;|&nbsp;  Full-Stack Developer &nbsp;|&nbsp;  AI & Cloud Enthusiast
 </h3>
 
 <p align="center">
