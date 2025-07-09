@@ -21,7 +21,11 @@
   <a href="mailto:ahmadfarooq9123@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://portfolio-ahmadfarooq.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
