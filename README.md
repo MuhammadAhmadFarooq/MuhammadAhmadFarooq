@@ -58,67 +58,41 @@ I'm a passionate Software Engineering student at FAST NUCES 🇵🇰 with a love
 ## 💼 Featured Projects
 
 <!-- REPOSITORIES -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2><br/>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
-<!-- FIRST ROW -->
-<div width="100%" align="center">
-  
-  <!-- MazeAI -->
-  <a align="right" href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver" title="MazeAI - Intelligent Maze Solver">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=graywhite&border_radius=10" alt="MazeAI" />
-    </picture>
-  </a>
-
-  <!-- Neural Network Stock Predictor -->
-  <a align="left" href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor" title="Neural Network Stock Predictor">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=graywhite&border_radius=10" alt="Stock Predictor" />
-    </picture>
-  </a>
-
-</div><br/><br/><br/><br/><br/><br/>
-
-<!-- SECOND ROW -->
-<div width="100%" align="center">
-
-  <!-- Weather Dashboard -->
-  <a align="left" href="https://github.com/MuhammadAhmadFarooq/my-weather-dashboard" title="Weather Dashboard + Gemini Chatbot">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=graywhite&border_radius=10" alt="Weather Dashboard" />
-    </picture>
-  </a>
-
-  <!-- PFMS MERN -->
-  <a align="right" href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN" title="Poultry Farm Management System">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=graywhite&border_radius=10" alt="PFMS" />
-    </picture>
-  </a>
-
-</div><br/><br/><br/><br/><br/><br/>
-
-<!-- THIRD ROW -->
-<div width="100%" align="center">
-
-  <!-- Pharmacy Management System -->
-  <a align="center" href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System" title="Pharmacy Management System">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=graywhite&border_radius=10" />
-      <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=graywhite&border_radius=10" alt="Pharmacy System" />
-    </picture>
-  </a>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MuhammadAhmadFarooq/my-weather-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
