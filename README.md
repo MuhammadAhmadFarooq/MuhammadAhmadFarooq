@@ -20,9 +20,7 @@
 
 ---
 
-<h2 align="center">
-  <span>About Me</span>
-</h2>
+## About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=50&lines=Passionate+Software+Engineering+Student+%F0%9F%87%B5%F0%9F%87%B0;Building+Powerful+%26+Scalable+Digital+Systems;Innovating+the+Future+with+Code+%F0%9F%9A%80" alt="About Me Animation" />
@@ -56,7 +54,7 @@
 
 ---
 
-## 🚀 My Toolbox
+## My Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,bash,html,css,sql" />
@@ -66,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
@@ -79,7 +77,7 @@
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <!-- Row 1 -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
@@ -121,9 +119,7 @@
 
 ---
 
-<h2 align="center">
-  <span>Current Focus</span>
-</h2>
+## Current Focus
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&height=40&lines=Currently+Exploring+%26+Building...;Innovation+Never+Stops+%F0%9F%9A%80" alt="Current Focus Animation" />
