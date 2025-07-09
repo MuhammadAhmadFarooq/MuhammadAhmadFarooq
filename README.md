@@ -144,14 +144,14 @@
       <br/>
       <h3>☁️ Cloud & ERP</h3>
       <p><em>Oracle Cloud ERP & consulting systems</em></p>
-      <img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      <img />
     </td>
     <td align="center" width="300">
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps"/>
       <br/>
       <h3>⚙️ DevOps Scaling</h3>
       <p><em>Kubernetes & containerization</em></p>
-      <img src="https://progress-bar.dev/78/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      <img  />
     </td>
   </tr>
   <tr>
@@ -160,14 +160,14 @@
       <br/>
       <h3>🧠 NLP & LLM</h3>
       <p><em>API integrations & AI systems</em></p>
-      <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      <img  />
     </td>
     <td align="center" width="300">
       <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" alt="Mobile"/>
       <br/>
       <h3>📱 Mobile Development</h3>
       <p><em>React Native & Cross-platform</em></p>
-      <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=babaca&suffix=%" />
+      <img />
     </td>
   </tr>
 </table>
@@ -180,13 +180,6 @@
   <img src="https://progress-bar.dev/88/?scale=100&title=Progress&width=250&color=babaca&suffix=%" />
 </div>
 
----
-
-## 🌟 Let's Connect
-
-💬 I’m open to: `Internships`, `Collaborations`, `Hackathons`, and `R&D Projects`  
-📧 **Email:** ahmadfarooq9123@gmail.com  
-📍 **Based in:** Islamabad, PK
 
 ---
 
