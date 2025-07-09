@@ -1,20 +1,25 @@
-<!-- BANNER / TYPING ANIMATION -->
+<!-- HERO SECTION: Elegant & Thrilling Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=50&lines=Hey+there+%F0%9F%91%8B+I'm+Muhammad+Ahmad...;Software+Engineer+%7C+MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Turning+Ideas+Into+Reality+With+Code+%F0%9F%9A%80;Let's+Build+The+Future+Together+%F0%9F%92%A1" alt="Thrilling Typing Animation" />
 </p>
 
+<h1 align="center">
+  🚀 Transforming Code into Impact  
+</h1>
 
-<h3 align="center">🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast</h3>
+<h3 align="center">
+  🎓 Final Year Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI & Cloud Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/MuhammadAhmadFarooq">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
+  <a href="https://github.com/MuhammadAhmadFarooq" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:ahmadfarooq9123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
