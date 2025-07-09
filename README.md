@@ -81,7 +81,7 @@
 
 ## 💼 Featured Projects
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2><br/>
+<h2 align="center">Repositories </h2><br/>
 
 <!-- Row 1 -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
@@ -124,9 +124,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
   <span>Current Focus</span>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h2>
 
 <div align="center">
