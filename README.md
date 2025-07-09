@@ -137,47 +137,41 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud"/>
-      <br/>
-      <h3>☁️ Cloud & ERP</h3>
-      <p><em>Oracle Cloud ERP & consulting systems</em></p>
-      <img />
-    </td>
-    <td align="center" width="300">
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps"/>
-      <br/>
-      <h3>⚙️ DevOps Scaling</h3>
-      <p><em>Kubernetes & containerization</em></p>
-      <img  />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI"/>
-      <br/>
-      <h3>🧠 NLP & LLM</h3>
-      <p><em>API integrations & AI systems</em></p>
-      <img  />
-    </td>
-    <td align="center" width="300">
-      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" alt="Mobile"/>
-      <br/>
-      <h3>📱 Mobile Development</h3>
-      <p><em>React Native & Cross-platform</em></p>
-      <img />
-    </td>
-  </tr>
-</table>
+<!-- Flex Grid Style Replacing Table -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 900px; margin: auto;">
+
+  <div style="flex: 1 1 300px; text-align: center;">
+    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud"/>
+    <h3>☁️ Cloud & ERP</h3>
+    <p><em>Oracle Cloud ERP & consulting systems</em></p>
+  </div>
+
+  <div style="flex: 1 1 300px; text-align: center;">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps"/>
+    <h3>⚙️ DevOps Scaling</h3>
+    <p><em>Kubernetes & containerization</em></p>
+  </div>
+
+  <div style="flex: 1 1 300px; text-align: center;">
+    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI"/>
+    <h3>🧠 NLP & LLM</h3>
+    <p><em>API integrations & AI systems</em></p>
+  </div>
+
+  <div style="flex: 1 1 300px; text-align: center;">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" alt="Mobile"/>
+    <h3>📱 Mobile Development</h3>
+    <p><em>React Native & Cross-platform</em></p>
+  </div>
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Rocket"/>
-  <br/>
   <h3>🛠️ React + SEO SSR</h3>
   <p><em>Building complex UIs with modern frameworks</em></p>
-  <img src="https://progress-bar.dev/88/?scale=100&title=Progress&width=250&color=babaca&suffix=%" />
 </div>
 
 
