@@ -3,11 +3,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
 </p>
 
-# 👋 Hi there, I'm Muhammad Ahmad  
-### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MuhammadAhmadFarooq)
-[![Email](https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail)](mailto:ahmadfarooq9123@gmail.com)
+<h1 align="center">👋 Hi there, I'm Muhammad Ahmad</h1>
+
+<h3 align="center">🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/MuhammadAhmadFarooq">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
+  </a>
+  <a href="mailto:ahmadfarooq9123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -15,10 +25,10 @@
 
 I'm a passionate Software Engineering student at FAST NUCES 🇵🇰 with a love for building powerful, scalable, and intelligent digital systems. My current interests revolve around:
 
-- 🧠 AI & Machine Learning
-- 🖥️ Full-Stack Web Development (MERN)
-- ⚙️ DevOps & Cloud (Docker, K8s, Oracle ERP)
-- 🔗 Blockchain + FinTech
+- 🧠 AI & Machine Learning  
+- 🖥️ Full-Stack Web Development (MERN)  
+- ⚙️ DevOps & Cloud (Docker, Kubernetes, Oracle ERP)  
+- 🔗 Blockchain + FinTech  
 
 ---
 
@@ -35,65 +45,74 @@ I'm a passionate Software Engineering student at FAST NUCES 🇵🇰 with a love
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=react&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmadFarooq&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAhmadFarooq&theme=react&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadFarooq&layout=compact&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadFarooq&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🧠 MazeAI – Intelligent Maze Solver
-> **AI + ML Based Maze Pathfinding Visualizer**
+<p align="center">
 
-🔗 [Repo](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver)  
-💡 Used BFS, DFS, A*, Greedy, and CSP Backtracking  
-📊 Real-time performance visualization & ML predictor  
-⚙️ **Tech**: Python, AI, Visualization, ML
+<!-- PROJECT CARD 1 -->
+<a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver">
+  <img align="left" height="140" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-maze-ai-abstract-flat-flat-juicy-fish.png" />
+</a>
+<strong>MazeAI – Intelligent Maze Solver</strong>  
+> 🧭 Solves mazes using BFS, DFS, A*, Greedy, and CSP. Trained ML model to predict best algorithm.  
+🔧 `Python`, `AI`, `Visualization`, `Machine Learning`  
+🔗 [Repository](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver)
 
----
+<br><br><br><br>
 
-### 📈 Neural Stock Predictor
-> **Forecasting stock prices using DL architectures**
+<!-- PROJECT CARD 2 -->
+<a href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor">
+  <img align="left" height="140" src="https://img.icons8.com/doodle/60/000000/stock-market--v1.png" />
+</a>
+<strong>Neural Network Stock Predictor</strong>  
+> 📈 LSTM, CNN & Transformer for OHLC forecasting with Streamlit dashboard.  
+🔧 `TensorFlow`, `Python`, `Deep Learning`, `Finance`  
+🔗 [Repository](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor)
 
-🔗 [Repo](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor)  
-💡 LSTM, CNN, Transformer Models for OHLC data  
-📊 Streamlit dashboard with RSI & MA indicators  
-⚙️ **Tech**: Python, TensorFlow, Streamlit
+<br><br><br><br>
 
----
+<!-- PROJECT CARD 3 -->
+<a href="https://github.com/MuhammadAhmadFarooq/my-weather-dashboard">
+  <img align="left" height="140" src="https://img.icons8.com/color/60/000000/cloud--v1.png" />
+</a>
+<strong>Weather Dashboard + Gemini Chatbot</strong>  
+> 🌤️ Real-time dashboard + chatbot using Gemini API for weather Q&A.  
+🔧 `JavaScript`, `Chart.js`, `Gemini API`, `OpenWeather`  
+🔗 [Repository](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard)
 
-### 🌤️ Weather Dashboard + Gemini AI Chatbot
-> **Real-time weather app with conversational AI**
+<br><br><br><br>
 
-🔗 [Repo](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard)  
-💬 Integrated Gemini API for chatbot weather queries  
-📈 Dynamic visuals via Chart.js  
-⚙️ **Tech**: JavaScript, OpenWeather, Gemini API
+<!-- PROJECT CARD 4 -->
+<a href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN">
+  <img align="left" height="140" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-farm-agriculture-flat-flat-juicy-fish.png" />
+</a>
+<strong>Poultry Farm Management System</strong>  
+> 🐔 MERN-based platform for tracking farm ops, eggs, finances. JWT-secured.  
+🔧 `React`, `MongoDB`, `Express`, `Chart.js`  
+🔗 [Repository](https://github.com/MuhammadAhmadFarooq/PFMS-MERN)
 
----
+<br><br><br><br>
 
-### 🐔 Poultry Farm Management System (PFMS)
-> **MERN App for digitizing farm operations**
+<!-- PROJECT CARD 5 -->
+<a href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System">
+  <img align="left" height="140" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-pharmacy-healthcare-flat-flat-juicy-fish.png" />
+</a>
+<strong>Pharmacy Management System</strong>  
+> 💊 JavaFX app with MVC design and SQL backend for pharmacy use cases.  
+🔧 `Java`, `JavaFX`, `SQL`, `MVC`  
+🔗 [Repository](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System)
 
-🔗 [Repo](https://github.com/MuhammadAhmadFarooq/PFMS-MERN)  
-🔐 Role-based access with JWT  
-📊 Visual dashboard with health/egg tracking  
-⚙️ **Tech**: React, Node.js, MongoDB, Chart.js
-
----
-
-### 💊 Pharmacy Management System
-> **JavaFX desktop app for pharmacy operations**
-
-🔗 [Repo](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System)  
-💡 Clean MVC architecture + GRASP, GoF patterns  
-🗃️ Integrated SQL database with smooth GUI  
-⚙️ **Tech**: Java, JavaFX, MySQL
+</p>
 
 ---
 
@@ -109,10 +128,9 @@ I'm a passionate Software Engineering student at FAST NUCES 🇵🇰 with a love
 
 ## 🌟 Let's Connect
 
-💬 I’m open to: `Internships`, `Collaborations`, `Hackathons`, and `R&D Projects`.
-
+💬 I’m open to: `Internships`, `Collaborations`, `Hackathons`, and `R&D Projects`  
 📧 **Email:** ahmadfarooq9123@gmail.com  
-📍 **Based in:** Islamabad, PK  
+📍 **Based in:** Islamabad, PK
 
 ---
 
