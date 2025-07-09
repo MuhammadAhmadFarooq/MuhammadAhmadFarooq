@@ -1,90 +1,84 @@
-<!-- View Count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Profile+Views&color=0e75b6&style=flat-square" alt="Muhammad Ahmad's Profile Views"/>
-
-<!-- Typing SVG Banner -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=550&lines=Hey+there!+👋+I'm+Muhammad+Ahmad;Full+Stack+Web+Developer+%26+AI+Enthusiast;MERN+%7C+Python+%7C+DevOps+%7C+Cloud+%7C+ML+%7C+R%26D" alt="Typing SVG" />
-  </a>
-</h1>
-
----
-
+<!-- BANNER / TYPING ANIMATION -->
 <p align="center">
-  <b>Software Engineering Student @ FAST NUCES | Full Stack Developer | AI & ML Explorer | FinTech R&D</b><br/>
-  <i>“Learning never exhausts the mind.” – Leonardo da Vinci</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Muhammad+Ahmad!;Software+Engineer+%7C+MERN+Stack+Dev+%7C+AI+Enthusiast;Let's+build+something+awesome+together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+# 👋 Welcome to My GitHub
 
-<div align="center">
-  <a href="mailto:ahmadfarooq9123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MuhammadAhmadFarooq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
+I'm **Muhammad Ahmad**, a passionate Software Engineering student at FAST NUCES 🇵🇰 who loves solving real-world problems with code — from **full-stack web development** to **machine learning** & **AI-driven automation**.
+
+🔗 [Portfolio (Coming Soon)]() • 📫 [Email](mailto:ahmadfarooq9123@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/) •
 
 ---
 
-## 🔥 Languages, Tools & Frameworks
+## 🚀 My Toolbox
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,tensorflow,java,cpp,docker,kubernetes,git,github,jira,figma&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,tensorflow,java,cpp,docker,kubernetes,git,github,jira,figma&theme=light" />
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,tensorflow,java,cpp,docker,kubernetes,git,github,jira,figma" />
-    </picture>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,bash,html,css,sql" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,git,figma,linux" />
+</p>
+
+<details>
+  <summary><b>🧰 Additional Tech & Tools</b> (click to expand)</summary>
+  
+- **Frameworks/Libraries:** MERN Stack, Spring Boot, Spring MVC, JavaFX, Chart.js, Redux, Axios, jQuery, Bootstrap  
+- **AI/ML:** TensorFlow/Keras, PyTorch, Scikit-learn, OpenCV  
+- **Tools:** GitHub Actions, Postman, Jira, Apache2, Nginx  
+- **Databases:** MySQL, MongoDB, SQL Server  
+
+</details>
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=react&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmadFarooq&theme=react&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadFarooq&layout=compact&theme=react&hide_border=true" width="49%" />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 💼 Projects Showcase
+
+| Name | Description | Tech |
+|------|-------------|------|
+| [🧠 MazeAI](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver) | AI Maze Solver using BFS, A*, ML & CSP | Python, ML, Visualization |
+| [📈 Stock Predictor](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor) | LSTM + Transformers on OHLC data | Python, TensorFlow, Streamlit |
+| [🌤️ Weather Gemini](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard) | Weather Dashboard + AI Chatbot | JS, Gemini API, Chart.js |
+| [🐔 Poultry Manager](https://github.com/MuhammadAhmadFarooq/PFMS-MERN) | Farm Management System (MERN) | React, Node, MongoDB |
+| [💊 Pharmacy System](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System) | JavaFX GUI & SQL integration | Java, MVC, SQL |
+
+---
+
+## 🧠 Current Focus
+
+- ☁️ Exploring Oracle Cloud ERP & consulting systems  
+- ⚙️ Scaling DevOps with Kubernetes  
+- 🔗 Blockchain in FinTech (IEEE R&D FAST)  
+- 🧠 NLP & LLM API integrations  
+- 🛠️ Building complex UIs with React + SEO SSR
+
+---
+
+## 🌟 Let's Connect
+
+💬 I’m open to: `Internships`, `Collaborations`, `Hackathons`, and `R&D Projects`.
+
+📧 **Email:** ahmadfarooq9123@gmail.com  
+📍 **Based in:** Islamabad, PK  
+
+---
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAhmadFarooq&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmadFarooq&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-## 🚀 Highlight Projects
-
-| ⭐ Project | 🔍 Description | 🛠 Tech Stack |
-|----------|----------------|--------------|
-| [MazeAI 🔗](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver) | Intelligent maze-solving AI using multiple search algorithms and machine learning. | Python, AI, BFS, A*, CSP, Visualization |
-| [Stock Predictor 📈](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor) | LSTM, CNN & Transformer models for OHLC price forecasting with analytics dashboard. | Python, TensorFlow, Streamlit |
-| [Weather Gemini 🌤️](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard) | Real-time weather dashboard with AI chatbot and geolocation. | JS, Gemini API, Chart.js |
-| [PFMS 🐓](https://github.com/MuhammadAhmadFarooq/PFMS-MERN) | Poultry farm digital system with JWT auth & dashboards. | MongoDB, Express, React, Node |
-| [Pharmacy System 💊](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System) | GUI-based desktop app using OOP and MVC architecture. | Java, JavaFX, SQL |
-
----
-
-## 🧠 Currently Exploring
-
-- 🌩 Oracle Cloud & ERP Implementation
-- 📦 Docker + Kubernetes for Microservices
-- 🤖 LangChain, Gemini & LLMs
-- 🔐 Blockchain Applications in FinTech
-- 🎯 DevOps + CI/CD Automation
-
----
-
-## 🐍 Contribution Snake Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAhmadFarooq/MuhammadAhmadFarooq/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAhmadFarooq/MuhammadAhmadFarooq/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/MuhammadAhmadFarooq/MuhammadAhmadFarooq/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
-</p>
-
----
-
-<h4 align="center">🔎 <a href="https://github.com/MuhammadAhmadFarooq?tab=repositories">Explore More Projects on My GitHub →</a></h4>
+<p align="center">🧠 “Learning never exhausts the mind.” – Leonardo da Vinci</p>
