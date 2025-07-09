@@ -1,103 +1,123 @@
-# 👋 Hi there, I'm Muhammad Ahmad
+<!-- BANNER / TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
+</p>
 
-### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast
-
+# 👋 Hi there, I'm Muhammad Ahmad  
+### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MuhammadAhmadFarooq)
 [![Email](https://img.shields.io/badge/Email-ahmadfarooq9123@gmail.com-red?logo=gmail)](mailto:ahmadfarooq9123@gmail.com)
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate Software Engineering undergrad at FAST NUCES, Islamabad 🇵🇰, with a strong focus on **full-stack web development** (MERN) and **AI-powered systems**.
+I'm a passionate Software Engineering student at FAST NUCES 🇵🇰 with a love for building powerful, scalable, and intelligent digital systems. My current interests revolve around:
 
-- 💡 I enjoy building intelligent systems and tools that solve real-world problems.
-- 🧠 I'm proficient in **JavaScript (MERN)**, **Python**, and familiar with design patterns like MVC and RESTful APIs.
-- 🛠️ I'm learning DevOps tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.
-- 🤝 Active volunteer and coordinator in societies like IEEE, FinTech FAST, and NaSCon.
+- 🧠 AI & Machine Learning
+- 🖥️ Full-Stack Web Development (MERN)
+- ⚙️ DevOps & Cloud (Docker, K8s, Oracle ERP)
+- 🔗 Blockchain + FinTech
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🚀 My Toolbox
 
-**Languages:**  
-`JavaScript` `Python` `C/C++` `Java` `TypeScript` `SQL` `Bash`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,bash,html,css,sql" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,git,figma,linux" />
+</p>
 
-**Frameworks & Libraries:**  
-`MERN Stack` `Spring Boot` `JavaFX` `TensorFlow` `PyTorch` `Scikit-learn` `Chart.js` `Redux` `Bootstrap` `OpenCV`
+---
 
-**DevOps & Tools:**  
-`Docker` `Kubernetes` `GitHub Actions` `Apache` `Nginx` `Postman` `Jira` `Figma` `Git`
+## 📊 GitHub Stats & Contributions
 
-**Databases:**  
-`MongoDB` `MySQL` `Microsoft SQL Server`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=react&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmadFarooq&theme=react&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadFarooq&layout=compact&theme=react&hide_border=true" width="49%" />
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 📊 [Poultry Farm Management System](https://github.com/MuhammadAhmadFarooq/PFMS-MERN)
-> A full-stack MERN web app for managing poultry operations.
-- 🔐 Role-based access with JWT
-- 📈 Data visualizations via Chart.js
-- 🖥️ Responsive and intuitive dashboard
+### 🧠 MazeAI – Intelligent Maze Solver
+> **AI + ML Based Maze Pathfinding Visualizer**
+
+🔗 [Repo](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver)  
+💡 Used BFS, DFS, A*, Greedy, and CSP Backtracking  
+📊 Real-time performance visualization & ML predictor  
+⚙️ **Tech**: Python, AI, Visualization, ML
 
 ---
 
-### 💊 [Pharmacy Management System](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System)
-> Built with JavaFX & SQL following MVC architecture.
-- 🎯 OOP, GRASP & GoF principles
-- 🔄 Persistent database layer
-- 💡 User-friendly GUI for pharmacy workflows
+### 📈 Neural Stock Predictor
+> **Forecasting stock prices using DL architectures**
+
+🔗 [Repo](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor)  
+💡 LSTM, CNN, Transformer Models for OHLC data  
+📊 Streamlit dashboard with RSI & MA indicators  
+⚙️ **Tech**: Python, TensorFlow, Streamlit
 
 ---
 
-### ☁️ [Weather Dashboard + Gemini Chatbot](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard)
-> Real-time weather updates with an integrated conversational AI.
-- 🌤️ Uses OpenWeather API + Gemini AI
-- 📊 Charts for visual forecasts
-- 💬 Natural language weather queries
+### 🌤️ Weather Dashboard + Gemini AI Chatbot
+> **Real-time weather app with conversational AI**
+
+🔗 [Repo](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard)  
+💬 Integrated Gemini API for chatbot weather queries  
+📈 Dynamic visuals via Chart.js  
+⚙️ **Tech**: JavaScript, OpenWeather, Gemini API
 
 ---
 
-### 📈 [Stock Market Predictor (Deep Learning)](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor)
-> Forecasting stock prices using deep learning.
-- 🧠 LSTM, CNN, Transformer models
-- 📉 MAE, MSE, and directional accuracy analytics
-- 📊 Streamlit dashboard for result comparison
+### 🐔 Poultry Farm Management System (PFMS)
+> **MERN App for digitizing farm operations**
+
+🔗 [Repo](https://github.com/MuhammadAhmadFarooq/PFMS-MERN)  
+🔐 Role-based access with JWT  
+📊 Visual dashboard with health/egg tracking  
+⚙️ **Tech**: React, Node.js, MongoDB, Chart.js
 
 ---
 
-### 🧩 [MazeAI – Intelligent Maze Solver](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver)
-> Solves mazes using AI and ML techniques.
-- 🧭 Includes BFS, DFS, A*, Greedy Best-First, CSP
-- 📊 Visualizations of search progress
-- 🧠 ML model to predict best algorithm based on maze
+### 💊 Pharmacy Management System
+> **JavaFX desktop app for pharmacy operations**
+
+🔗 [Repo](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System)  
+💡 Clean MVC architecture + GRASP, GoF patterns  
+🗃️ Integrated SQL database with smooth GUI  
+⚙️ **Tech**: Java, JavaFX, MySQL
 
 ---
 
-## 🌱 Currently Exploring
+## 🧠 Current Focus
 
-- 🌐 SEO-focused frontends (Next.js, SSR)
-- ☁️ Oracle Cloud & ERP
-- 🔗 Blockchain applications in fintech
-- 🧪 Advanced DevOps with Kubernetes
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always open to interesting projects, hackathons, internships, and R&D collabs. Let's connect and create something amazing!
+- ☁️ Exploring Oracle Cloud ERP & consulting systems  
+- ⚙️ Scaling DevOps with Kubernetes  
+- 🔗 Blockchain in FinTech (IEEE R&D FAST)  
+- 🧠 NLP & LLM API integrations  
+- 🛠️ Building complex UIs with React + SEO SSR
 
 ---
 
-📫 **Contact Me**:  
-📧 ahmadfarooq9123@gmail.com  
-📱 +92 331 2223219  
-🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/) | [GitHub](https://github.com/MuhammadAhmadFarooq)
+## 🌟 Let's Connect
+
+💬 I’m open to: `Internships`, `Collaborations`, `Hackathons`, and `R&D Projects`.
+
+📧 **Email:** ahmadfarooq9123@gmail.com  
+📍 **Based in:** Islamabad, PK  
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+<p align="center">🧠 “Learning never exhausts the mind.” – Leonardo da Vinci</p>
