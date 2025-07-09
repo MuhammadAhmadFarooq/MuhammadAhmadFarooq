@@ -132,35 +132,37 @@
 
 <br/>
 
-<!-- Row 1 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" alt="Cloud" />
-  <br/>
-  <strong>☁️ Cloud & ERP</strong><br/>
-  <em>Oracle Cloud ERP & consulting systems</em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud" />
+      <br/>
+      <h3>☁️ Cloud & ERP</h3>
+      <p><em>Oracle Cloud ERP & consulting systems</em></p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps" />
+      <br/>
+      <h3>⚙️ DevOps Scaling</h3>
+      <p><em>Kubernetes & containerization</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI" />
+      <br/>
+      <h3>🧠 NLP & LLM</h3>
+      <p><em>API integrations & AI systems</em></p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Rocket" />
+      <br/>
+      <h3>🛠️ React + SEO SSR</h3>
+      <p><em>Building complex UIs with modern frameworks</em></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="DevOps" />
-  <br/>
-  <strong>⚙️ DevOps Scaling</strong><br/>
-  <em>Kubernetes & containerization</em>
-</p>
-
-<!-- Row 2 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" alt="AI" />
-  <br/>
-  <strong>🧠 NLP & LLM</strong><br/>
-  <em>API integrations & AI systems</em>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Rocket" />
-  <br/>
-  <strong>🛠️ React + SEO SSR</strong><br/>
-  <em>Building complex UIs with modern frameworks</em>
-</p>
 
 
 
