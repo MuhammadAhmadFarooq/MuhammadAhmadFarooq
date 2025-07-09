@@ -130,27 +130,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=40&lines=Currently+Exploring+%26+Building...;Innovation+Never+Stops+%F0%9F%9A%80" alt="Current Focus Animation" />
 </div>
 
-<!-- Row 1 -->
-<div align="center">
+<br/>
 
-  <!-- Cloud & ERP -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Cloud-ERP-Focus&title=☁️ Cloud & ERP&description=Oracle+Cloud+ERP+%26+consulting+systems&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-
-  <!-- DevOps Scaling -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=DevOps-Focus&title=⚙️ DevOps Scaling&description=Kubernetes+%26+containerization&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-
-</div><br/>
-
-<!-- Row 2 -->
-<div align="center">
-
-  <!-- NLP & LLM -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=NLP-Focus&title=🧠 NLP & LLM&description=API+integrations+%26+AI+systems&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-
-  <!-- React + SEO SSR -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=React-SEO-Focus&title=🛠️ React + SEO SSR&description=Building+complex+UIs+with+modern+frameworks&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80" alt="Cloud" />
+      <br/>
+      <h3>☁️ Cloud & ERP</h3>
+      <p><em>Oracle Cloud ERP & consulting systems</em></p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80" alt="DevOps" />
+      <br/>
+      <h3>⚙️ DevOps Scaling</h3>
+      <p><em>Kubernetes & containerization</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" alt="AI" />
+      <br/>
+      <h3>🧠 NLP & LLM</h3>
+      <p><em>API integrations & AI systems</em></p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Rocket" />
+      <br/>
+      <h3>🛠️ React + SEO SSR</h3>
+      <p><em>Building complex UIs with modern frameworks</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
