@@ -12,19 +12,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/MuhammadAhmadFarooq" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:ahmadfarooq9123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://portfolio-ahmadfarooq.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View-Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <strong>📫 Email:</strong> <a href="mailto:ahmadfarooq9123@gmail.com">ahmadfarooq9123@gmail.com</a> &nbsp;|&nbsp;
+  <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">muhammad-ahmad-a638a32a9</a> &nbsp;|&nbsp;
+  <strong>🌐 Portfolio:</strong> <a href="https://portfolio-ahmadfarooq.vercel.app/">portfolio-ahmadfarooq.vercel.app</a> &nbsp;|&nbsp;
+  <strong>🐙 GitHub:</strong> <a href="https://github.com/MuhammadAhmadFarooq">MuhammadAhmadFarooq</a>
 </p>
+
 
 
 ---
