@@ -12,19 +12,20 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:ahmadfarooq9123@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" height="40"/>
+  <a href="mailto:ahmadfarooq9123@gmail.com" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" height="30"/>
+    <span style="vertical-align: middle; font-size: 16px; color: #333;">Email</span>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40"/>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
+    <span style="vertical-align: middle; font-size: 16px; color: #333;">LinkedIn</span>
   </a>
-  <a href="https://github.com/MuhammadAhmadFarooq" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="40"/>
-  </a>
-  <a href="https://portfolio-ahmadfarooq.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/00bfff/domain.png" alt="Portfolio" height="40"/>
+  <a href="https://portfolio-ahmadfarooq.vercel.app/" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/ios-filled/50/00bfff/domain.png" alt="Portfolio" height="30"/>
+    <span style="vertical-align: middle; font-size: 16px; color: #333;">Portfolio</span>
   </a>
 </p>
+
 
 
 
