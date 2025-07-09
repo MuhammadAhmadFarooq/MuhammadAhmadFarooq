@@ -57,62 +57,70 @@ I'm a passionate Software Engineering student at FAST NUCES 🇵🇰 with a love
 
 ## 💼 Featured Projects
 
-<p align="center">
+<!-- REPOSITORIES -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2><br/>
 
-<!-- PROJECT CARD 1 -->
-<a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver">
-  <img align="left" height="140" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-maze-ai-abstract-flat-flat-juicy-fish.png" />
-</a>
-<strong>MazeAI – Intelligent Maze Solver</strong>  
-> 🧭 Solves mazes using BFS, DFS, A*, Greedy, and CSP. Trained ML model to predict best algorithm.  
-🔧 `Python`, `AI`, `Visualization`, `Machine Learning`  
-🔗 [Repository](https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver)
+<!-- FIRST ROW -->
+<div width="100%" align="center">
+  
+  <!-- MazeAI -->
+  <a align="right" href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver" title="MazeAI - Intelligent Maze Solver">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=graywhite&border_radius=10" alt="MazeAI" />
+    </picture>
+  </a>
 
-<br><br><br><br>
+  <!-- Neural Network Stock Predictor -->
+  <a align="left" href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor" title="Neural Network Stock Predictor">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=graywhite&border_radius=10" alt="Stock Predictor" />
+    </picture>
+  </a>
 
-<!-- PROJECT CARD 2 -->
-<a href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor">
-  <img align="left" height="140" src="https://img.icons8.com/doodle/60/000000/stock-market--v1.png" />
-</a>
-<strong>Neural Network Stock Predictor</strong>  
-> 📈 LSTM, CNN & Transformer for OHLC forecasting with Streamlit dashboard.  
-🔧 `TensorFlow`, `Python`, `Deep Learning`, `Finance`  
-🔗 [Repository](https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor)
+</div><br/><br/><br/><br/><br/><br/>
 
-<br><br><br><br>
+<!-- SECOND ROW -->
+<div width="100%" align="center">
 
-<!-- PROJECT CARD 3 -->
-<a href="https://github.com/MuhammadAhmadFarooq/my-weather-dashboard">
-  <img align="left" height="140" src="https://img.icons8.com/color/60/000000/cloud--v1.png" />
-</a>
-<strong>Weather Dashboard + Gemini Chatbot</strong>  
-> 🌤️ Real-time dashboard + chatbot using Gemini API for weather Q&A.  
-🔧 `JavaScript`, `Chart.js`, `Gemini API`, `OpenWeather`  
-🔗 [Repository](https://github.com/MuhammadAhmadFarooq/my-weather-dashboard)
+  <!-- Weather Dashboard -->
+  <a align="left" href="https://github.com/MuhammadAhmadFarooq/my-weather-dashboard" title="Weather Dashboard + Gemini Chatbot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=my-weather-dashboard&theme=graywhite&border_radius=10" alt="Weather Dashboard" />
+    </picture>
+  </a>
 
-<br><br><br><br>
+  <!-- PFMS MERN -->
+  <a align="right" href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN" title="Poultry Farm Management System">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=graywhite&border_radius=10" alt="PFMS" />
+    </picture>
+  </a>
 
-<!-- PROJECT CARD 4 -->
-<a href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN">
-  <img align="left" height="140" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-farm-agriculture-flat-flat-juicy-fish.png" />
-</a>
-<strong>Poultry Farm Management System</strong>  
-> 🐔 MERN-based platform for tracking farm ops, eggs, finances. JWT-secured.  
-🔧 `React`, `MongoDB`, `Express`, `Chart.js`  
-🔗 [Repository](https://github.com/MuhammadAhmadFarooq/PFMS-MERN)
+</div><br/><br/><br/><br/><br/><br/>
 
-<br><br><br><br>
+<!-- THIRD ROW -->
+<div width="100%" align="center">
 
-<!-- PROJECT CARD 5 -->
-<a href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System">
-  <img align="left" height="140" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-pharmacy-healthcare-flat-flat-juicy-fish.png" />
-</a>
-<strong>Pharmacy Management System</strong>  
-> 💊 JavaFX app with MVC design and SQL backend for pharmacy use cases.  
-🔧 `Java`, `JavaFX`, `SQL`, `MVC`  
-🔗 [Repository](https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System)
+  <!-- Pharmacy Management System -->
+  <a align="center" href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System" title="Pharmacy Management System">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=graywhite&border_radius=10" />
+      <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=graywhite&border_radius=10" alt="Pharmacy System" />
+    </picture>
+  </a>
 
-</p>
+</div>
+
+
 
 ---
 
