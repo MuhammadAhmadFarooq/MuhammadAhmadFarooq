@@ -1,7 +1,8 @@
 <!-- BANNER / TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Muhammad+Ahmad!;Software+Engineer+%7C+MERN+Stack+Dev+%7C+AI+Enthusiast;Let's+build+something+awesome+together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
 </p>
+
 
 ---
 
@@ -21,15 +22,6 @@ I'm **Muhammad Ahmad**, a passionate Software Engineering student at FAST NUCES 
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,git,figma,linux" />
 </p>
 
-<details>
-  <summary><b>🧰 Additional Tech & Tools</b> (click to expand)</summary>
-  
-- **Frameworks/Libraries:** MERN Stack, Spring Boot, Spring MVC, JavaFX, Chart.js, Redux, Axios, jQuery, Bootstrap  
-- **AI/ML:** TensorFlow/Keras, PyTorch, Scikit-learn, OpenCV  
-- **Tools:** GitHub Actions, Postman, Jira, Apache2, Nginx  
-- **Databases:** MySQL, MongoDB, SQL Server  
-
-</details>
 
 ---
 
