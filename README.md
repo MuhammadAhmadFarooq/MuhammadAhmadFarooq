@@ -81,8 +81,6 @@
 
 ## 💼 Featured Projects
 
-<h2 align="center">Repositories </h2><br/>
-
 <!-- Row 1 -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
