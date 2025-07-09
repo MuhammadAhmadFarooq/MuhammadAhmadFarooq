@@ -1,93 +1,6 @@
 <!-- BANNER / TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCen---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <span>Let's Connect & Collaborate</span>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=40&lines=Ready+to+Build+Something+Amazing%3F;Let's+Turn+Ideas+Into+Reality!" alt="Connect Animation" />
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" height="80" alt="Internship"/>
-      <br/>
-      <h3>💼 Internships</h3>
-      <p><em>Ready to contribute & learn</em></p>
-      <a href="mailto:ahmadfarooq9123@gmail.com">
-        <img src="https://img.shields.io/badge/Apply-Now-success?style=for-the-badge&logo=gmail" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80" alt="Collaboration"/>
-      <br/>
-      <h3>🤝 Collaborations</h3>
-      <p><em>Open source & team projects</em></p>
-      <a href="https://github.com/MuhammadAhmadFarooq">
-        <img src="https://img.shields.io/badge/Collaborate-GitHub-blue?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" height="80" alt="Hackathon"/>
-      <br/>
-      <h3>🏆 Hackathons</h3>
-      <p><em>Competitive coding & innovation</em></p>
-      <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
-        <img src="https://img.shields.io/badge/Team-Up-orange?style=for-the-badge&logo=linkedin" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" height="80" alt="Research"/>
-      <br/>
-      <h3>🔬 R&D Projects</h3>
-      <p><em>Research & development</em></p>
-      <a href="mailto:ahmadfarooq9123@gmail.com">
-        <img src="https://img.shields.io/badge/Research-Together-purple?style=for-the-badge&logo=academia" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <h3>📬 Get In Touch</h3>
-  <p>
-    <a href="mailto:ahmadfarooq9123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/MuhammadAhmadFarooq">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-  
-  <p>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">
-    <strong>📍 Based in:</strong> <em>Islamabad, Pakistan</em>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">
-  </p>
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">🧠 "Learning never exhausts the mind." – Leonardo da Vinci</p>1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
-</p>
-
-<h1 align="center">👋 Hi there, I'm Muhammad Ahmad</h1>
+<h1 align="center">Hi there, I'm Muhammad Ahmad</h1>
 
 <h3 align="center">🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast</h3>
 
@@ -269,12 +182,84 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCen---
 
-## 🌟 Let's Connect
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <span>Let's Connect & Collaborate</span>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
-💬 I’m open to: `Internships`, `Collaborations`, `Hackathons`, and `R&D Projects`  
-📧 **Email:** ahmadfarooq9123@gmail.com  
-📍 **Based in:** Islamabad, PK
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=40&lines=Ready+to+Build+Something+Amazing%3F;Let's+Turn+Ideas+Into+Reality!" alt="Connect Animation" />
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" height="80" alt="Internship"/>
+      <br/>
+      <h3>💼 Internships</h3>
+      <p><em>Ready to contribute & learn</em></p>
+      <a href="mailto:ahmadfarooq9123@gmail.com">
+        <img src="https://img.shields.io/badge/Apply-Now-success?style=for-the-badge&logo=gmail" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80" alt="Collaboration"/>
+      <br/>
+      <h3>🤝 Collaborations</h3>
+      <p><em>Open source & team projects</em></p>
+      <a href="https://github.com/MuhammadAhmadFarooq">
+        <img src="https://img.shields.io/badge/Collaborate-GitHub-blue?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" height="80" alt="Hackathon"/>
+      <br/>
+      <h3>🏆 Hackathons</h3>
+      <p><em>Competitive coding & innovation</em></p>
+      <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
+        <img src="https://img.shields.io/badge/Team-Up-orange?style=for-the-badge&logo=linkedin" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" height="80" alt="Research"/>
+      <br/>
+      <h3>🔬 R&D Projects</h3>
+      <p><em>Research & development</em></p>
+      <a href="mailto:ahmadfarooq9123@gmail.com">
+        <img src="https://img.shields.io/badge/Research-Together-purple?style=for-the-badge&logo=academia" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h3>📬 Get In Touch</h3>
+  <p>
+    <a href="mailto:ahmadfarooq9123@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/MuhammadAhmadFarooq">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  
+  <p>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">
+    <strong>📍 Based in:</strong> <em>Islamabad, Pakistan</em>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">
+  </p>
+</div>
 
 ---
 
@@ -282,4 +267,6 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">🧠 “Learning never exhausts the mind.” – Leonardo da Vinci</p>
+<p align="center">🧠 "Learning never exhausts the mind." – Leonardo da Vinci</p>1000&height=40&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ahmad+%7C+Software+Engineer;MERN+Stack+%7C+AI+%7C+DevOps+%7C+Cloud;Building+Innovative+and+Impactful+Solutions!" alt="Typing Animation" />
+</p>
+
