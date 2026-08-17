@@ -91,14 +91,29 @@
 
 ## 📊 GitHub Analytics & Matrix Telemetry
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAhmadFarooq&theme=tokyonight" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=MuhammadAhmadFarooq&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAhmadFarooq&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=MuhammadAhmadFarooq&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAhmadFarooq&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAhmadFarooq&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAhmadFarooq&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmadFarooq&theme=tokyo-night&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmadFarooq&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
