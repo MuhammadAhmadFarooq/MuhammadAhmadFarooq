@@ -1,164 +1,198 @@
-<!-- HERO SECTION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=50&lines=Hey+there+%F0%9F%91%8B+I'm+Muhammad+Ahmad...;MERN+Stack+Developer+%7C+Full-Stack+Engineer;Shipping+Production+Systems%2C+Not+Side+Projects+%F0%9F%9A%80;Let's+Build+Something+That+Ships+%F0%9F%92%A1" alt="Thrilling Typing Animation" />
-</p>
+<div align="center">
 
-<h1 align="center">
-   Transforming Code into Impact
-</h1>
-
-<h3 align="center">
-   Final Year Software Engineering Student &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; AI & Cloud Enthusiast
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmadfarooq9123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmadfarooq9123%40gmail.com-red?logo=gmail&logoColor=white" />
-  </a>
+  <!-- FUTURISTIC DYNAMIC TYPING BANNER -->
   <a href="https://ahmad-farooq.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ahmad--farooq.vercel.app-blue?logo=vercel&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2400&pause=800&color=00F0FF&center=true&vCenter=true&width=950&height=65&lines=%E2%9A%A1+NEURAL+SYSTEM+ONLINE%3A+Welcome+to+my+Matrix;%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Ahmad+%E2%80%94+Full-Stack+%26+AI+Architect;%F0%9F%9A%80+Architecting+High-Scale+Production+Web+Systems;%F0%9F%A7%A0+Computer+Vision+(YOLOv8)+%7C+MERN+%2F+Next.js+%7C+DevOps;%F0%9F%92%A1+%22Shipping+Code+That+Powers+Real+Businesses%22" alt="Cyber Typing Animation" />
   </a>
-  <a href="https://github.com/MuhammadAhmadFarooq">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" />
-  </a>
-</p>
+
+  <!-- ANIMATED CAPSULE HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7928CA,FF0080&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Systems%20Architect%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=16&descAlign=50&descAlignY=68" width="100%" />
+
+  <!-- QUICK ACTION BUTTONS -->
+  <p align="center">
+    <a href="https://www.x1chauffeurs.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_LIVE_SYSTEM-X1_Chauffeurs-00F0FF?style=for-the-badge&logo=react&logoColor=black" />
+    </a>
+    <a href="https://ahmad-farooq.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_PORTFOLIO-ahmad--farooq.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/muhammad-ahmad-a638a32a9/" target="_blank">
+      <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ahmadfarooq9123@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_EMAIL-ahmadfarooq9123-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-## About Me
+## ⚡ System Telemetry & Diagnostics
 
-I'm a Full-Stack Developer with production experience across the MERN stack and Next.js — currently building and maintaining **X1 Chauffeurs**, a live booking platform handling 100+ bookings/month for an Australian transportation company. I care about shipping things that work in production, not just code that compiles locally.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=50&lines=Building+Scalable+Production+Systems;From+REST+APIs+to+Kubernetes+Deployments;Now+Exploring+AI-Powered+Applications+%F0%9F%9A%80" alt="About Me Animation" />
-</div>
+```gcode
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  [STATUS]      : 🟢 ACTIVE & SHIPPING PRODUCTION CODE                        │
+│  [LOCATION]    : 🇵🇰 ISLAMABAD, PAKISTAN                                    │
+│  [EDUCATION]   : 🎓 FINAL YEAR SOFTWARE ENGINEERING @ FAST-NUCES            │
+│  [LEADERSHIP]  : ⚡ BRANCH VICE CHAIR @ IEEE FAST ISLAMABAD                    │
+│  [PRIMARY STACK]: 💻 MERN / NEXT.JS 14 | 🧠 YOLOv8 & GEMINI AI | ☁️ DEVOPS   │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="250">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="Full Stack"/>
-      <br><strong>🖥️ Full-Stack</strong>
-      <br><em>MERN Stack & Next.js</em>
-      <br><em>Production Web Apps</em>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Desktop%20Computer.png" width="60" alt="Full Stack"/>
+      <br>
+      <b>💻 Full-Stack Systems</b>
+      <br>
+      <sub>MERN Stack • Next.js 14 • TypeScript • REST & GraphQL APIs</sub>
     </td>
-    <td align="center" width="250">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="DevOps"/>
-      <br><strong>⚙️ DevOps & Cloud</strong>
-      <br><em>Docker & Kubernetes</em>
-      <br><em>OCI & AWS</em>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="60" alt="AI & ML"/>
+      <br>
+      <b>🧠 Applied AI & Computer Vision</b>
+      <br>
+      <sub>YOLOv8 Pothole Detection • PyTorch • OpenCV • Gemini AI</sub>
     </td>
-    <td align="center" width="250">
-      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" height="60" alt="AI"/>
-      <br><strong>🧠 AI & ML</strong>
-      <br><em>Computer Vision (YOLOv8)</em>
-      <br><em>LLM Integrations</em>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" alt="DevOps"/>
+      <br>
+      <b>☁️ Cloud Native & DevOps</b>
+      <br>
+      <sub>Docker • Kubernetes • AWS • Oracle Cloud (OCI) • CI/CD</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## My Toolbox
+## 🛠️ Technological Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,html,css,tailwind" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,git,figma,postman,linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,pytorch,cpp,html,css,tailwind,bootstrap&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,git,linux,postman,figma,vite,replit&perline=8" />
+  </a>
 </p>
 
 ---
 
-## GitHub Stats & Contributions
+## 📊 GitHub Analytics & Matrix Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmadFarooq&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadFarooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadAhmadFarooq&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadFarooq&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadFarooq&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmadFarooq&theme=tokyo-night&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmadFarooq&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" />
 </p>
 
 ---
 
-## Featured Work
+## 🚀 Featured Deployments & Production Work
 
-### 🚗 X1 Chauffeurs — Live Production Platform
-Booking and admin platform for a commercial chauffeur service. Real-time fare pricing (Google Maps API), secure payments (Stripe), JWT-based auth — currently handling **100+ bookings/month** with a **90+/100 Lighthouse score**.
-`Next.js 14` `TypeScript` `Node.js` `MongoDB` `Stripe` `Google Maps API`
-**[Live Site](https://www.x1chauffeurs.com/)**
-
-### 🛣️ UrbanEye — AI-Based Smart Road Monitoring System (FYP)
-YOLOv8-based pothole detection pipeline trained on a 1,864-image aerial dataset — **87.6% accuracy**, **87.59% AP@0.50**, and a **100% pass rate** across model test cases. Full 4-module system integrating drone imagery, severity/risk scoring, and encroachment detection.
-`Python` `YOLOv8` `PyTorch` `OpenCV` `FastAPI` `React.js` `PostgreSQL`
-
-### 🤖 JobJourneyAI — AI Job Search & Interview Platform
-Full-stack AI career platform covering resume parsing, real-time job discovery, intelligent matching, and personalized interview prep — powered by Google Gemini AI and the Serper API.
-`React 19` `TypeScript` `Node.js` `Express` `MongoDB` `Google Gemini AI`
-**[GitHub](https://github.com/MuhammadAhmadFarooq/JobJourneyAI)**
-
-<br/>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://github.com/MuhammadAhmadFarooq/PFMS-MERN" title="Poultry Farm Management System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=PFMS-MERN&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
-  <a href="https://github.com/MuhammadAhmadFarooq/Pharmacy-Managment-System" title="Pharmacy Management System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Pharmacy-Managment-System&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
-</div><br/>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://github.com/MuhammadAhmadFarooq/Neural-Network-Based-Stock-Market-Predictor" title="Neural Network Stock Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=Neural-Network-Based-Stock-Market-Predictor&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
-  <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver" title="MazeAI - Intelligent Maze Solver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
-</div>
+### 🚗 X1 Chauffeurs — Commercial Chauffeur Platform (Live Production)
+Architected and deployed a live booking engine and admin control panel for an Australian transportation service.
+- ⚙️ **Key Features**: Real-time fare calculation via Google Maps API, automated Stripe payment processing, JWT authentication, and administrative ride management.
+- 📈 **Performance Metrics**: Processing **100+ live monthly bookings** with **90+/100 Lighthouse Performance**.
+- 🛠️ **Tech Stack**: `Next.js 14`, `TypeScript`, `Node.js`, `MongoDB`, `Stripe API`, `Google Maps API`, `Tailwind CSS`
+- 🌐 **[Live Website](https://www.x1chauffeurs.com/)**
 
 ---
 
-## Currently
+### 🛣️ UrbanEye — AI Smart Road Monitoring System (Final Year Project)
+An intelligent automated road inspection system using drone video feed and deep learning.
+- ⚙️ **Key Features**: YOLOv8 pothole detection model trained on 1,864 aerial image datasets, risk/severity scoring matrix, and spatial encroachment detection.
+- 📈 **Accuracy**: **87.6% overall accuracy**, **87.59% AP@0.50**, with **100% test case pass rate**.
+- 🛠️ **Tech Stack**: `Python`, `YOLOv8`, `PyTorch`, `OpenCV`, `FastAPI`, `React.js`, `PostgreSQL`
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=40&lines=Building+X1+Chauffeurs+in+Production;Finishing+UrbanEye+for+Final+Year+Project;Open+to+Full-Stack+%2F+SWE+Roles+%F0%9F%9A%80" alt="Current Focus Animation" />
-</div>
+---
 
-<br/>
+### 🤖 JobJourneyAI — Intelligent Career & Interview Platform
+Full-stack AI platform automating resume evaluation, job discovery, and adaptive mock interviews.
+- ⚙️ **Key Features**: Natural language resume parsing via Google Gemini AI, real-time job aggregation via Serper API, and personalized technical interview simulation.
+- 🛠️ **Tech Stack**: `React 19`, `TypeScript`, `Node.js`, `Express`, `MongoDB`, `Google Gemini AI`
+- 🔗 **[GitHub Repository](https://github.com/MuhammadAhmadFarooq/JobJourneyAI)**
 
-<table align="center">
+---
+
+### 📌 Verified Live GitHub Cards
+
+<p align="center">
+  <a href="https://github.com/MuhammadAhmadFarooq/JobJourneyAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=JobJourneyAI&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MuhammadAhmadFarooq/movie-recommendation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=movie-recommendation-system&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/MuhammadAhmadFarooq/CarRentalSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=CarRentalSystem&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Directives & Focus
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%94%B9+Scaling+X1+Chauffeurs+Production+Infrastructure;%F0%9F%94%B9+Finalizing+UrbanEye+AI+Drone+Inspection+System;%F0%9F%94%B9+Open+for+Full-Stack+%2F+Software+Engineering+Roles" alt="Current Directives" />
+</p>
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="300">
-      <h3>🚀 Production Full-Stack</h3>
-      <p><em>Maintaining X1 Chauffeurs & freelance client work</em></p>
+    <td align="center" width="50%">
+      <h3>🌐 Full-Stack Web Systems</h3>
+      <p><em>Building resilient MERN & Next.js microservices for live client workloads.</em></p>
     </td>
-    <td align="center" width="300">
-      <h3>🧠 Applied AI/CV</h3>
-      <p><em>UrbanEye pothole detection & JobJourneyAI</em></p>
+    <td align="center" width="50%">
+      <h3>🧠 Computer Vision & GenAI</h3>
+      <p><em>Applying YOLOv8, PyTorch, and LLMs to solve real-world industry problems.</em></p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="300">
-      <h3>☁️ Cloud & DevOps</h3>
-      <p><em>Docker, Kubernetes, OCI, CI/CD pipelines</em></p>
+    <td align="center" width="50%">
+      <h3>☁️ Cloud Native & DevOps</h3>
+      <p><em>Deploying containerized clusters using Docker, Kubernetes, AWS & OCI.</em></p>
     </td>
-    <td align="center" width="300">
-      <h3>🎓 Final Year @ FAST-NUCES</h3>
-      <p><em>Branch Vice Chair, IEEE FAST Islamabad</em></p>
+    <td align="center" width="50%">
+      <h3>🎓 IEEE Leadership</h3>
+      <p><em>Branch Vice Chair @ IEEE FAST Islamabad — Driving technical community events.</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7928CA,FF0080&height=100&section=footer&text=DESIGNED%20FOR%20THE%20FUTURE&fontSize=20&fontColor=ffffff" width="100%" />
 </p>
 
-<p align="center">🧠 "The best code is the code that ships."</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmadFarooq&label=SYSTEM%20VISITS&color=00F0FF&style=for-the-badge" alt="Profile Visits" />
+</p>
+
+<p align="center">
+  <i>🧠 "The best code is the code that ships."</i>
+</p>
