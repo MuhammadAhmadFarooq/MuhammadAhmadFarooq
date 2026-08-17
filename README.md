@@ -2,7 +2,7 @@
 
   <!-- FUTURISTIC DYNAMIC TYPING BANNER -->
   <a href="https://ahmad-farooq.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=950&height=65&lines=%E2%9A%A1+NEURAL+SYSTEM+ONLINE%3A+Welcome+to+my+Matrix;%F0%9F%91%8B+Hi%2C+I+am+Muhammad+Ahmad+%E2%80%94+Full-Stack+%26+AI+Architect;%F0%9F%9A%80+Architecting+High-Scale+Production+Web+Systems;%F0%9F%A7%A0+Computer+Vision+(YOLOv8)+%7C+MERN+%2F+Next.js+%7C+DevOps;%F0%9F%92%A1+Shipping+Code+That+Powers+Real+Businesses" alt="Cyber Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=950&height=65&lines=SYSTEM+ONLINE%3A+Welcome+to+my+Digital+Workspace;Hi%2C+I+am+Muhammad+Ahmad+--+Full-Stack+%26+AI+Architect;Architecting+High-Scale+Production+Web+Systems;Computer+Vision+(YOLOv8)+%7C+MERN+%2F+Next.js+%7C+DevOps;Shipping+Code+That+Powers+Real+Businesses" alt="Cyber Typing Animation" />
   </a>
 
   <!-- ANIMATED CAPSULE HEADER -->
@@ -231,7 +231,7 @@
 ## 🎯 Current Directives & Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%94%B9+Scaling+X1+Chauffeurs+Production+Infrastructure;%F0%9F%94%B9+Finalizing+UrbanEye+AI+Drone+Inspection+System;%F0%9F%94%B9+Open+for+Full-Stack+%2F+Software+Engineering+Roles" alt="Current Directives" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=50&lines=Scaling+X1+Chauffeurs+Production+Infrastructure;Finalizing+UrbanEye+AI+Drone+Inspection+System;Open+for+Full-Stack+and+Software+Engineering+Roles" alt="Current Directives" />
 </p>
 
 <table align="center" width="100%">
