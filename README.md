@@ -2,16 +2,16 @@
 
   <!-- FUTURISTIC DYNAMIC TYPING BANNER -->
   <a href="https://ahmad-farooq.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2400&pause=800&color=00F0FF&center=true&vCenter=true&width=950&height=65&lines=%E2%9A%A1+NEURAL+SYSTEM+ONLINE%3A+Welcome+to+my+Matrix;%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Ahmad+%E2%80%94+Full-Stack+%26+AI+Architect;%F0%9F%9A%80+Architecting+High-Scale+Production+Web+Systems;%F0%9F%A7%A0+Computer+Vision+(YOLOv8)+%7C+MERN+%2F+Next.js+%7C+DevOps;%F0%9F%92%A1+%22Shipping+Code+That+Powers+Real+Businesses%22" alt="Cyber Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=950&height=65&lines=%E2%9A%A1+NEURAL+SYSTEM+ONLINE%3A+Welcome+to+my+Matrix;%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Ahmad+%E2%80%94+Full-Stack+%26+AI+Architect;%F0%9F%9A%80+Architecting+High-Scale+Production+Web+Systems;%F0%9F%A7%A0+Computer+Vision+(YOLOv8)+%7C+MERN+%2F+Next.js+%7C+DevOps;%F0%9F%92%A1+%22Shipping+Code+That+Powers+Real+Businesses%22" alt="Cyber Typing Animation" />
   </a>
 
   <!-- ANIMATED CAPSULE HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7928CA,FF0080&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Systems%20Architect%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=16&descAlign=50&descAlignY=68" width="100%" />
 
-  <!-- QUICK ACTION BUTTONS -->
+  <!-- QUICK ACTION BADGES -->
   <p align="center">
     <a href="https://www.x1chauffeurs.com/" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_LIVE_SYSTEM-X1_Chauffeurs-00F0FF?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/⚡_LIVE_SYSTEM-X1_Chauffeurs-00F0FF?style=for-the-badge&logo=react&logoColor=black" />
     </a>
     <a href="https://ahmad-farooq.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_PORTFOLIO-ahmad--farooq.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -30,43 +30,46 @@
 
 ## ⚡ System Telemetry & Diagnostics
 
-```gcode
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  [STATUS]      : 🟢 ACTIVE & SHIPPING PRODUCTION CODE                        │
-│  [LOCATION]    : 🇵🇰 ISLAMABAD, PAKISTAN                                    │
-│  [EDUCATION]   : 🎓 FINAL YEAR SOFTWARE ENGINEERING @ FAST-NUCES            │
-│  [LEADERSHIP]  : ⚡ BRANCH VICE CHAIR @ IEEE FAST ISLAMABAD                    │
-│  [PRIMARY STACK]: 💻 MERN / NEXT.JS 14 | 🧠 YOLOv8 & GEMINI AI | ☁️ DEVOPS   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-<br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_%26_SHIPPING_PRODUCTION_CODE-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
+    <img src="https://img.shields.io/badge/LOCATION-Islamabad%2C_Pakistan_🇵🇰-7928CA?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/EDUCATION-FAST--NUCES_(BS_Software_Engineering_'25)-FF0080?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+    <img src="https://img.shields.io/badge/LEADERSHIP-Vice_Chair_@_IEEE_FAST_Islamabad-00F0FF?style=for-the-badge&logo=ieee&logoColor=black" />
+  </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Desktop%20Computer.png" width="60" alt="Full Stack"/>
-      <br>
-      <b>💻 Full-Stack Systems</b>
-      <br>
-      <sub>MERN Stack • Next.js 14 • TypeScript • REST & GraphQL APIs</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="60" alt="AI & ML"/>
-      <br>
-      <b>🧠 Applied AI & Computer Vision</b>
-      <br>
-      <sub>YOLOv8 Pothole Detection • PyTorch • OpenCV • Gemini AI</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" alt="DevOps"/>
-      <br>
-      <b>☁️ Cloud Native & DevOps</b>
-      <br>
-      <sub>Docker • Kubernetes • AWS • Oracle Cloud (OCI) • CI/CD</sub>
-    </td>
-  </tr>
-</table>
+  <br/>
+
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Desktop%20Computer.png" width="65" alt="Full Stack"/>
+        <br>
+        <h3 style="color: #00F0FF;">💻 Full-Stack Systems</h3>
+        <p><b>MERN Stack • Next.js 14 • TypeScript</b></p>
+        <p><sub>Architecting scalable microservices, JWT auth, Stripe integration, and production web apps.</sub></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="65" alt="AI & ML"/>
+        <br>
+        <h3 style="color: #7928CA;">🧠 AI & Computer Vision</h3>
+        <p><b>YOLOv8 • PyTorch • Gemini AI</b></p>
+        <p><sub>Building custom CV pipelines, pothole/encroachment detection, and LLM integrations.</sub></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="65" alt="DevOps"/>
+        <br>
+        <h3 style="color: #FF0080;">☁️ Cloud & DevOps</h3>
+        <p><b>Docker • Kubernetes • AWS • OCI</b></p>
+        <p><sub>Containerizing production workloads, automated CI/CD pipelines, and cloud hosting.</sub></p>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -104,52 +107,113 @@
 
 ---
 
-## 🚀 Featured Deployments & Production Work
+## 🚀 Featured Work & Production Deployments
 
-### 🚗 X1 Chauffeurs — Commercial Chauffeur Platform (Live Production)
-Architected and deployed a live booking engine and admin control panel for an Australian transportation service.
-- ⚙️ **Key Features**: Real-time fare calculation via Google Maps API, automated Stripe payment processing, JWT authentication, and administrative ride management.
-- 📈 **Performance Metrics**: Processing **100+ live monthly bookings** with **90+/100 Lighthouse Performance**.
-- 🛠️ **Tech Stack**: `Next.js 14`, `TypeScript`, `Node.js`, `MongoDB`, `Stripe API`, `Google Maps API`, `Tailwind CSS`
-- 🌐 **[Live Website](https://www.x1chauffeurs.com/)**
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🚗 X1 Chauffeurs</h3>
+        <p><b>Live Production Chauffeur Booking Platform</b></p>
+        <p>
+          <img src="https://img.shields.io/badge/STATUS-LIVE_PRODUCTION-00F0FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/METRIC-100%2B_Bookings/mo-success?style=flat-square" />
+        </p>
+        <p align="left">
+          Architected a commercial chauffeur booking platform with real-time Google Maps pricing engine, automated Stripe payments, and admin ride dispatching.
+        </p>
+        <p align="left">
+          <code>Next.js 14</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>Stripe</code>
+        </p>
+        <p>
+          <a href="https://www.x1chauffeurs.com/" target="_blank"><b>🌐 Launch Live Site »</b></a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛣️ UrbanEye</h3>
+        <p><b>AI Smart Road Monitoring System (FYP)</b></p>
+        <p>
+          <img src="https://img.shields.io/badge/ACCURACY-87.6%25_YOLOv8-7928CA?style=flat-square" />
+          <img src="https://img.shields.io/badge/TESTS-100%25_PASS_RATE-blue?style=flat-square" />
+        </p>
+        <p align="left">
+          AI pothole and encroachment detection pipeline trained on 1,864 aerial drone image datasets with real-time risk severity scoring.
+        </p>
+        <p align="left">
+          <code>Python</code> <code>YOLOv8</code> <code>PyTorch</code> <code>FastAPI</code> <code>PostgreSQL</code>
+        </p>
+        <p>
+          <b>🧠 Applied AI Project</b>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🤖 JobJourneyAI</h3>
+        <p><b>AI Career & Interview Platform</b></p>
+        <p>
+          <img src="https://img.shields.io/badge/AI-Google_Gemini-FF0080?style=flat-square" />
+          <img src="https://img.shields.io/badge/SEARCH-Serper_API-00F0FF?style=flat-square" />
+        </p>
+        <p align="left">
+          Full-stack AI platform automating resume evaluation, job discovery, and adaptive mock interviews.
+        </p>
+        <p align="left">
+          <code>React 19</code> <code>TypeScript</code> <code>Express</code> <code>MongoDB</code> <code>Gemini AI</code>
+        </p>
+        <p>
+          <a href="https://github.com/MuhammadAhmadFarooq/JobJourneyAI"><b>🔗 View Repository »</b></a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🌀 MazeAI Solver</h3>
+        <p><b>Intelligent AI Pathfinder & Visualizer</b></p>
+        <p>
+          <img src="https://img.shields.io/badge/ALGORITHMS-A*_/_BFS_/_DFS-00F0FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" />
+        </p>
+        <p align="left">
+          Interactive AI maze generation and pathfinding visualizer powered by search algorithms and custom ML models.
+        </p>
+        <p align="left">
+          <code>Python</code> <code>Machine Learning</code> <code>AI Algorithms</code> <code>Visualization</code>
+        </p>
+        <p>
+          <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver"><b>🔗 View Repository »</b></a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 🛣️ UrbanEye — AI Smart Road Monitoring System (Final Year Project)
-An intelligent automated road inspection system using drone video feed and deep learning.
-- ⚙️ **Key Features**: YOLOv8 pothole detection model trained on 1,864 aerial image datasets, risk/severity scoring matrix, and spatial encroachment detection.
-- 📈 **Accuracy**: **87.6% overall accuracy**, **87.59% AP@0.50**, with **100% test case pass rate**.
-- 🛠️ **Tech Stack**: `Python`, `YOLOv8`, `PyTorch`, `OpenCV`, `FastAPI`, `React.js`, `PostgreSQL`
+<div align="center">
 
----
+  ### 📌 Quick Access GitHub Repositories
 
-### 🤖 JobJourneyAI — Intelligent Career & Interview Platform
-Full-stack AI platform automating resume evaluation, job discovery, and adaptive mock interviews.
-- ⚙️ **Key Features**: Natural language resume parsing via Google Gemini AI, real-time job aggregation via Serper API, and personalized technical interview simulation.
-- 🛠️ **Tech Stack**: `React 19`, `TypeScript`, `Node.js`, `Express`, `MongoDB`, `Google Gemini AI`
-- 🔗 **[GitHub Repository](https://github.com/MuhammadAhmadFarooq/JobJourneyAI)**
+  <p align="center">
+    <a href="https://github.com/MuhammadAhmadFarooq/JobJourneyAI">
+      <img src="https://img.shields.io/badge/Repo-JobJourneyAI-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+    </a>
+    <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver">
+      <img src="https://img.shields.io/badge/Repo-MazeAI_Maze_Solver-7928CA?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/MuhammadAhmadFarooq/movie-recommendation-system">
+      <img src="https://img.shields.io/badge/Repo-Movie_Recommendation-FF0080?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/MuhammadAhmadFarooq/CarRentalSystem">
+      <img src="https://img.shields.io/badge/Repo-Car_Rental_System-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+    </a>
+  </p>
 
----
-
-### 📌 Verified Live GitHub Cards
-
-<p align="center">
-  <a href="https://github.com/MuhammadAhmadFarooq/JobJourneyAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=JobJourneyAI&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/MuhammadAhmadFarooq/MazeAI-Intelligent-Maze-Solver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=MazeAI-Intelligent-Maze-Solver&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MuhammadAhmadFarooq/movie-recommendation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=movie-recommendation-system&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/MuhammadAhmadFarooq/CarRentalSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadFarooq&repo=CarRentalSystem&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
+</div>
 
 ---
 
