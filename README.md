@@ -2,18 +2,18 @@
 
   <!-- FUTURISTIC DYNAMIC TYPING BANNER -->
   <a href="https://ahmad-farooq.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=950&height=65&lines=SYSTEM+ONLINE%3A+Welcome+to+my+Digital+Workspace;Hi%2C+I+am+Muhammad+Ahmad+--+Full-Stack+%26+AI+Architect;Architecting+High-Scale+Production+Web+Systems;Computer+Vision+(YOLOv8)+%7C+MERN+%2F+Next.js+%7C+DevOps;Shipping+Code+That+Powers+Real+Businesses" alt="Cyber Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=950&height=65&lines=SYSTEM+ONLINE%3A+Welcome+to+my+Digital+Workspace;Hi%2C+I+am+Muhammad+Ahmad+--+Full-Stack+and+AI+Architect;Architecting+High-Scale+Production+Web+Systems;Computer+Vision+(YOLOv8)+%7C+MERN+%2F+Next.js+%7C+DevOps;Shipping+Code+That+Powers+Real+Businesses" alt="Cyber Typing Animation" />
   </a>
 
   <!-- ANIMATED CAPSULE HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Systems%20Architect%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=16&descAlign=50&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Systems%20Architect%20%7C%20AI%20and%20Cloud%20Engineer&descSize=16&descAlign=50&descAlignY=68" width="100%" />
 
   <h1 align="center">
     ⚡ MUHAMMAD AHMAD ⚡
   </h1>
 
   <p align="center">
-    <b>Final Year Software Engineering @ FAST-NUCES &nbsp;|&nbsp; Full-Stack Architect &nbsp;|&nbsp; AI & Cloud Innovator</b>
+    <b>Final Year Software Engineering @ FAST-NUCES &nbsp;|&nbsp; Full-Stack Architect &nbsp;|&nbsp; AI and Cloud Innovator</b>
   </p>
 
   <!-- QUICK ACTION BADGES -->
@@ -41,7 +41,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_%26_SHIPPING_PRODUCTION_CODE-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
+    <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_AND_SHIPPING_PRODUCTION_CODE-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
     <img src="https://img.shields.io/badge/LOCATION-Islamabad%2C_Pakistan_🇵🇰-7928CA?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
   <p align="center">
@@ -61,16 +61,16 @@
         <p><sub>Architecting scalable microservices, JWT auth, Stripe integration, and production web apps.</sub></p>
       </td>
       <td align="center" width="33%" style="padding: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="AI & ML"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="AI and ML"/>
         <br/><br/>
-        <h3 style="color: #7928CA;">🧠 AI & Computer Vision</h3>
+        <h3 style="color: #7928CA;">🧠 AI and Computer Vision</h3>
         <p><b>YOLOv8 • PyTorch • Gemini AI</b></p>
         <p><sub>Building custom CV pipelines, pothole/encroachment detection, and LLM integrations.</sub></p>
       </td>
       <td align="center" width="33%" style="padding: 15px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="DevOps"/>
         <br/><br/>
-        <h3 style="color: #FF0080;">☁️ Cloud & DevOps</h3>
+        <h3 style="color: #FF0080;">☁️ Cloud and DevOps</h3>
         <p><b>Docker • Kubernetes • AWS • OCI</b></p>
         <p><sub>Containerizing production workloads, automated CI/CD pipelines, and cloud hosting.</sub></p>
       </td>
@@ -269,7 +269,7 @@
 
 <!-- FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=DESIGNED%20FOR%20THE%20FUTURE&fontSize=20&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=DESIGNED%20FOR%20THE%20FUTURE&fontSize=20&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
