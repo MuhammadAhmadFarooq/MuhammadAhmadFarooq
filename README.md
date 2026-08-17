@@ -8,13 +8,6 @@
   <!-- ANIMATED CAPSULE HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Systems%20Architect%20%7C%20AI%20and%20Cloud%20Engineer&descSize=16&descAlign=50&descAlignY=68" width="100%" />
 
-  <h1 align="center">
-    ⚡ MUHAMMAD AHMAD ⚡
-  </h1>
-
-  <p align="center">
-    <b>Final Year Software Engineering @ FAST-NUCES &nbsp;|&nbsp; Full-Stack Architect &nbsp;|&nbsp; AI and Cloud Innovator</b>
-  </p>
 
   <!-- QUICK ACTION BADGES -->
   <p align="center">
