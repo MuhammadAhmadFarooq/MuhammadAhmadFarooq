@@ -45,23 +45,23 @@
 
   <table align="center" width="100%">
     <tr>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Desktop%20Computer.png" width="65" alt="Full Stack"/>
-        <br>
+      <td align="center" width="33%" style="padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="Full Stack"/>
+        <br/><br/>
         <h3 style="color: #00F0FF;">💻 Full-Stack Systems</h3>
         <p><b>MERN Stack • Next.js 14 • TypeScript</b></p>
         <p><sub>Architecting scalable microservices, JWT auth, Stripe integration, and production web apps.</sub></p>
       </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="65" alt="AI & ML"/>
-        <br>
+      <td align="center" width="33%" style="padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="AI & ML"/>
+        <br/><br/>
         <h3 style="color: #7928CA;">🧠 AI & Computer Vision</h3>
         <p><b>YOLOv8 • PyTorch • Gemini AI</b></p>
         <p><sub>Building custom CV pipelines, pothole/encroachment detection, and LLM integrations.</sub></p>
       </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="65" alt="DevOps"/>
-        <br>
+      <td align="center" width="33%" style="padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="DevOps"/>
+        <br/><br/>
         <h3 style="color: #FF0080;">☁️ Cloud & DevOps</h3>
         <p><b>Docker • Kubernetes • AWS • OCI</b></p>
         <p><sub>Containerizing production workloads, automated CI/CD pipelines, and cloud hosting.</sub></p>
