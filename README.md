@@ -6,7 +6,15 @@
   </a>
 
   <!-- ANIMATED CAPSULE HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7928CA,FF0080&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Systems%20Architect%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=16&descAlign=50&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Systems%20Architect%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=16&descAlign=50&descAlignY=68" width="100%" />
+
+  <h1 align="center">
+    ⚡ MUHAMMAD AHMAD ⚡
+  </h1>
+
+  <p align="center">
+    <b>Final Year Software Engineering @ FAST-NUCES &nbsp;|&nbsp; Full-Stack Architect &nbsp;|&nbsp; AI & Cloud Innovator</b>
+  </p>
 
   <!-- QUICK ACTION BADGES -->
   <p align="center">
@@ -261,7 +269,7 @@
 
 <!-- FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=00F0FF,7928CA,FF0080&height=100&section=footer&text=DESIGNED%20FOR%20THE%20FUTURE&fontSize=20&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=DESIGNED%20FOR%20THE%20FUTURE&fontSize=20&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
